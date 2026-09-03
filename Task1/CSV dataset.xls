@@ -1,0 +1,1009 @@
+Order_ID,Order_Date,Customer_ID,Customer_Age,Gender,Region,Product_Name,Product_Category,Quantity,Unit_Price,Discount,Sales_Amount,Payment_Method,Customer_Rating
+ORD100001,2024-04-12,CUST1073,,Female,North,Travel Mug,Accessories,4,854.05,0.0,3416.2,Net Banking,3.0
+ORD100002,2025-03-11,CUST1017,19.0,Female,East,Laptop Backpack,Accessories,1,1363.95,0.1,1227.56,Credit Card,4.0
+ORD100003,2024-09-27,CUST1009,28.0,Female,North,Running Shoes,Sports,1,3148.95,0.0,3148.95,UPI,5.0
+ORD100004,2024-04-16,CUST1143,30.0,Female,East,Denim Jeans,Clothing,2,1799.0,0.05,3418.1,Debit Card,4.0
+ORD100005,2024-03-12,CUST1152,27.0,Female,South,Office Chair,Furniture,1,7873.95,0.05,7480.25,UPI,4.0
+ORD100006,2025-12-01,CUST1038,31.0,Female,,Wireless Mouse,Electronics,2,799.0,0.1,1438.2,Credit Card,3.0
+ORD100007,2024-01-21,CUST1163,35.0,Male,North,Travel Mug,Accessories,5,854.05,0.1,3843.22,Credit Card,2.0
+ORD100008,2025-09-06,CUST1094,26.0,Male,East,Mechanical Keyboard,Electronics,2,2374.05,0.0,4748.1,Credit Card,5.0
+ORD100009,2024-05-01,CUST1095,56.0,Female,North,Smart Watch,Electronics,1,4198.95,0.05,3989.0,Cash,2.0
+ORD100010,2025-04-11,CUST1049,45.0,Female,East,USB-C Hub,Electronics,5,1573.95,0.1,7082.78,UPI,3.0
+ORD100011,2024-08-02,CUST1069,20.0,Female,West,Running Shoes,Sports,1,3148.95,0.2,2519.16,,5.0
+ORD100012,2024-11-26,CUST1062,37.0,Female,North,Laptop Backpack,Accessories,2,1299.0,0.1,2338.2,Credit Card,4.0
+ORD100013,2025-04-03,CUST1188,23.0,Other,West,Office Chair,Furniture,3,7873.95,0.15,20078.57,Debit Card,5.0
+ORD100014,2024-03-28,CUST1178,44.0,Male,East,Mechanical Keyboard,Electronics,4,2623.95,0.1,9446.22,Debit Card,5.0
+ORD100015,2025-01-07,CUST1078,19.0,Male,North,Travel Mug,Accessories,1,854.05,0.1,768.64,Credit Card,3.0
+ORD100016,2024-04-09,CUST1117,46.0,Male,South,Power Bank,Electronics,2,1678.95,0.0,3357.9,Debit Card,1.0
+ORD100017,2025-10-25,CUST1120,55.0,,North,Cotton T-Shirt,Clothing,5,664.05,0.1,2988.22,UPI,5.0
+ORD100018,2024-05-10,CUST1137,20.0,Female,East,Bluetooth Speaker,Electronics,1,2098.95,0.1,1889.05,Net Banking,4.0
+ORD100019,2025-10-23,CUST1162,33.0,Male,West,Wireless Mouse,Electronics,1,759.05,0.1,683.14,Credit Card,2.0
+ORD100020,2024-11-04,CUST1076,47.0,Female,North,Notebook Set,Stationery,4,418.95,0.05,1592.01,Debit Card,5.0
+ORD100021,2024-12-09,CUST1035,57.0,Male,South,Bluetooth Speaker,Electronics,2,1899.05,0.05,3608.2,UPI,1.0
+ORD100022,2025-05-06,CUST1001,19.0,Female,West,Running Shoes,Sports,3,2999.0,0.05,8547.15,UPI,5.0
+ORD100023,2025-02-17,CUST1040,34.0,Female,West,Cotton T-Shirt,Clothing,5,664.05,0.05,3154.24,Credit Card,3.0
+ORD100024,2025-01-20,CUST1064,58.0,Male,South,Power Bank,Electronics,2,1519.05,0.0,3038.1,Cash,2.0
+ORD100025,2024-07-10,CUST1150,29.0,Female,West,Cotton T-Shirt,Clothing,5,664.05,0.15,2822.21,Credit Card,3.0
+ORD100026,2024-10-03,CUST1060,52.0,Male,South,Travel Mug,Accessories,1,943.95,0.0,943.95,Net Banking,5.0
+ORD100027,2024-06-09,CUST1064,60.0,Male,South,Cotton T-Shirt,Clothing,4,733.95,0.0,2935.8,Credit Card,5.0
+ORD100028,2025-04-04,CUST1093,18.0,Male,West,USB-C Hub,Electronics,4,1573.95,0.05,5981.01,Credit Card,5.0
+ORD100029,2024-11-09,CUST1072,62.0,Male,South,Running Shoes,Sports,3,2999.0,0.1,8097.3,UPI,4.0
+ORD100030,2024-01-22,CUST1011,32.0,Male,South,Notebook Set,Stationery,4,399.0,0.05,1516.2,Cash,4.0
+ORD100031,2024-09-09,CUST1105,43.0,Female,South,Denim Jeans,Clothing,1,1709.05,0.0,1709.05,UPI,3.0
+ORD100032,2025-07-14,CUST1014,54.0,Female,West,Bluetooth Speaker,Electronics,3,1999.0,0.1,5397.3,Cash,4.0
+ORD100033,2025-04-19,CUST1060,38.0,Female,West,Notebook Set,Stationery,2,379.05,0.05,720.2,Net Banking,4.0
+ORD100034,2024-02-28,CUST1030,48.0,Male,South,Denim Jeans,Clothing,4,1709.05,0.15,5810.77,Net Banking,4.0
+ORD100035,2025-05-25,CUST1035,42.0,Female,South,Mechanical Keyboard,Electronics,3,2374.05,0.15,6053.83,Credit Card,3.0
+ORD100036,2025-11-12,CUST1165,40.0,Male,South,Power Bank,Electronics,1,1599.0,0.05,1519.05,Debit Card,5.0
+ORD100037,2025-04-20,CUST1005,41.0,Male,East,Water Bottle,Sports,5,628.95,0.05,2987.51,Debit Card,3.0
+ORD100038,2025-11-30,CUST1083,55.0,Female,North,Smart Watch,Electronics,5,3999.0,0.1,17995.5,UPI,5.0
+ORD100039,2024-07-08,CUST1123,45.0,Male,West,Smart Watch,Electronics,1,3799.05,0.0,3799.05,Debit Card,1.0
+ORD100040,2025-11-17,CUST1078,38.0,Female,South,Denim Jeans,Clothing,1,1709.05,0.05,1623.6,UPI,4.0
+ORD100041,2025-07-16,CUST1154,60.0,Female,South,Water Bottle,Sports,5,599.0,0.05,2845.25,Credit Card,4.0
+ORD100042,2025-07-20,CUST1062,35.0,Male,North,Travel Mug,Accessories,3,854.05,0.15,2177.83,UPI,4.0
+ORD100043,2024-08-31,CUST1132,53.0,Male,North,Notebook Set,Stationery,5,379.05,0.0,1895.25,UPI,4.0
+ORD100044,2025-05-19,CUST1089,52.0,Male,West,Water Bottle,Sports,1,599.0,0.1,539.1,Credit Card,4.0
+ORD100045,2024-05-10,CUST1042,62.0,Female,South,Wireless Mouse,Electronics,4,799.0,0.1,2876.4,Credit Card,4.0
+ORD100046,2025-04-29,CUST1089,26.0,Male,North,Mechanical Keyboard,Electronics,2,2499.0,0.05,4748.1,Debit Card,5.0
+ORD100047,2025-10-08,CUST1146,55.0,Male,South,Running Shoes,Sports,4,2849.05,0.0,11396.2,UPI,5.0
+ORD100048,2024-01-21,CUST1040,47.0,Male,South,Water Bottle,Sports,4,569.05,0.2,1820.96,Credit Card,5.0
+ORD100049,2024-06-15,CUST1072,61.0,Female,North,Laptop Backpack,Accessories,1,1363.95,0.05,1295.75,UPI,3.0
+ORD100050,2024-09-30,CUST1039,51.0,Male,South,Desk Lamp,Furniture,5,1258.95,0.1,5665.28,Credit Card,4.0
+ORD100051,2025-01-22,CUST1104,49.0,Male,East,Travel Mug,Accessories,3,899.0,0.0,2697.0,Debit Card,4.0
+ORD100052,2025-08-23,CUST1014,20.0,Female,East,Smart Watch,Electronics,4,4198.95,0.05,15956.01,Credit Card,4.0
+ORD100053,2024-11-11,CUST1032,20.0,Female,South,Laptop Backpack,Accessories,5,1234.05,0.05,5861.74,Debit Card,4.0
+ORD100054,2024-01-14,CUST1179,45.0,Male,South,Mechanical Keyboard,Electronics,3,2623.95,,7871.85,UPI,4.0
+ORD100055,2024-08-29,CUST1125,61.0,Male,West,Water Bottle,Sports,4,569.05,0.0,2276.2,Debit Card,3.0
+ORD100056,2024-12-11,CUST1166,,Male,South,Bluetooth Speaker,Electronics,3,1999.0,0.15,5097.45,Credit Card,3.0
+ORD100057,2025-07-18,CUST1097,58.0,Female,South,Smart Watch,Electronics,5,3999.0,0.0,19995.0,Credit Card,2.0
+ORD100058,2024-12-05,CUST1023,40.0,Male,South,Wireless Mouse,Electronics,2,759.05,0.0,1518.1,Debit Card,5.0
+ORD100059,2024-04-01,CUST1063,57.0,Female,South,Office Chair,Furniture,5,7873.95,0.05,37401.26,UPI,5.0
+ORD100060,2025-01-01,CUST1143,28.0,Female,West,Wireless Mouse,Electronics,1,799.0,0.1,719.1,Debit Card,5.0
+ORD100061,2025-03-30,CUST1153,65.0,Female,North,Desk Lamp,Furniture,3,1199.0,0.0,3597.0,Debit Card,5.0
+ORD100062,2025-03-03,CUST1145,49.0,Male,East,Cotton T-Shirt,Clothing,2,733.95,0.1,1321.11,UPI,2.0
+ORD100063,2025-05-23,CUST1194,53.0,Female,North,Office Chair,Furniture,3,7873.95,0.0,23621.85,UPI,5.0
+ORD100064,2024-02-04,CUST1053,50.0,Female,South,USB-C Hub,Electronics,3,1424.05,0.0,4272.15,UPI,5.0
+ORD100065,2024-07-24,CUST1104,41.0,Female,West,Water Bottle,Sports,4,628.95,0.0,2515.8,Net Banking,4.0
+ORD100066,2024-03-21,CUST1104,56.0,Male,South,Mechanical Keyboard,Electronics,1,2623.95,0.15,2230.36,Debit Card,4.0
+ORD100067,2025-07-15,CUST1179,51.0,Other,East,Smart Watch,Electronics,3,4198.95,0.0,12596.85,UPI,5.0
+ORD100068,2025-01-22,CUST1039,45.0,Male,North,USB-C Hub,Electronics,5,1424.05,0.0,7120.25,Credit Card,4.0
+ORD100069,2024-01-02,CUST1179,54.0,Male,East,Mechanical Keyboard,Electronics,5,2374.05,0.05,11276.74,Credit Card,5.0
+ORD100070,,CUST1198,24.0,Male,North,Desk Lamp,Furniture,4,1199.0,0.15,4076.6,Cash,2.0
+ORD100071,2025-07-19,CUST1134,21.0,Female,West,Denim Jeans,Clothing,1,1709.05,0.0,1709.05,UPI,3.0
+ORD100072,2024-04-15,CUST1067,54.0,Male,North,Water Bottle,Sports,1,599.0,0.05,569.05,UPI,4.0
+ORD100073,2025-04-21,CUST1135,18.0,Male,West,Running Shoes,Sports,5,3148.95,0.0,15744.75,Cash,4.0
+ORD100074,2025-12-03,CUST1179,18.0,Male,South,Running Shoes,Sports,2,2999.0,0.05,5698.1,UPI,5.0
+ORD100075,2025-02-05,CUST1200,64.0,Male,East,Water Bottle,Sports,4,599.0,0.1,2156.4,UPI,5.0
+ORD100076,2025-12-30,CUST1042,37.0,Female,South,Office Chair,Furniture,4,7873.95,0.1,28346.22,Net Banking,4.0
+ORD100077,2025-07-09,CUST1192,36.0,Female,West,Cotton T-Shirt,Clothing,5,699.0,0.05,3320.25,Debit Card,1.0
+ORD100078,2024-06-10,CUST1015,46.0,Male,North,Cotton T-Shirt,Clothing,5,664.05,0.05,3154.24,UPI,5.0
+ORD100079,2024-07-20,CUST1111,27.0,Male,North,Office Chair,Furniture,2,7124.05,0.0,14248.1,UPI,4.0
+ORD100080,2024-09-26,CUST1157,,Female,South,Notebook Set,Stationery,2,379.05,0.05,720.2,UPI,3.0
+ORD100081,2024-09-27,CUST1033,45.0,Male,North,Power Bank,Electronics,1,1519.05,0.0,1519.05,UPI,4.0
+ORD100082,2025-03-31,CUST1155,52.0,Male,North,Running Shoes,Sports,4,2999.0,0.1,10796.4,Cash,5.0
+ORD100083,2025-04-06,CUST1164,60.0,Other,West,Bluetooth Speaker,Electronics,4,1999.0,0.2,6396.8,Credit Card,5.0
+ORD100084,2025-12-27,CUST1157,64.0,Female,West,Office Chair,Furniture,5,7873.95,0.2,31495.8,Debit Card,4.0
+ORD100085,2024-09-08,CUST1038,48.0,Male,South,Smart Watch,Electronics,1,3999.0,0.15,3399.15,Net Banking,4.0
+ORD100086,2025-12-02,CUST1185,44.0,Female,West,Running Shoes,Sports,4,2999.0,0.1,10796.4,Credit Card,5.0
+ORD100087,2024-10-22,CUST1097,28.0,Male,East,Bluetooth Speaker,Electronics,1,1999.0,0.1,1799.1,UPI,5.0
+ORD100088,2025-12-25,CUST1155,55.0,Female,South,Desk Lamp,Furniture,1,1258.95,0.0,1258.95,Credit Card,4.0
+ORD100089,2025-12-20,CUST1183,22.0,,East,USB-C Hub,Electronics,5,1424.05,0.1,6408.22,Net Banking,3.0
+ORD100090,2024-12-03,CUST1033,25.0,Male,East,Bluetooth Speaker,Electronics,1,1999.0,0.05,1899.05,Cash,5.0
+ORD100091,2024-02-22,CUST1196,51.0,Male,West,USB-C Hub,Electronics,2,1573.95,0.05,2990.5,UPI,3.0
+ORD100092,2024-08-04,CUST1086,65.0,Female,South,Power Bank,Electronics,2,1678.95,0.1,3022.11,Debit Card,3.0
+ORD100093,,CUST1066,29.0,Female,East,Mechanical Keyboard,Electronics,3,2623.95,0.0,7871.85,Credit Card,4.0
+ORD100094,2025-01-14,CUST1010,55.0,Male,North,Travel Mug,Accessories,5,854.05,0.05,4056.74,Net Banking,3.0
+ORD100095,2025-05-07,CUST1005,18.0,Male,North,Laptop Backpack,Accessories,3,1299.0,0.15,3312.45,UPI,4.0
+ORD100096,2024-02-10,CUST1123,48.0,Female,North,Mechanical Keyboard,Electronics,2,2623.95,0.0,5247.9,Credit Card,2.0
+ORD100097,2024-06-05,CUST1074,21.0,Male,West,Running Shoes,Sports,3,2849.05,0.05,8119.79,Cash,5.0
+ORD100098,2024-01-15,CUST1097,62.0,Male,West,USB-C Hub,Electronics,5,1573.95,0.15,6689.29,Credit Card,3.0
+ORD100099,2024-03-05,CUST1118,22.0,Female,West,Running Shoes,Sports,5,3148.95,0.1,14170.28,Credit Card,1.0
+ORD100100,2025-06-04,CUST1038,47.0,Male,South,Power Bank,Electronics,1,1678.95,0.05,1595.0,UPI,2.0
+ORD100101,2024-12-09,CUST1141,41.0,Female,South,Office Chair,Furniture,4,7873.95,0.0,31495.8,UPI,5.0
+ORD100102,2024-05-08,CUST1159,20.0,Other,North,Water Bottle,Sports,1,628.95,0.05,597.5,UPI,5.0
+ORD100103,2025-10-09,CUST1047,28.0,Male,South,Smart Watch,Electronics,5,3799.05,0.15,16145.96,Net Banking,3.0
+ORD100104,2025-04-16,CUST1109,62.0,Male,South,Wireless Mouse,Electronics,2,799.0,0.1,1438.2,UPI,5.0
+ORD100105,2024-03-03,CUST1180,21.0,Male,West,Running Shoes,Sports,2,2999.0,0.05,5698.1,Credit Card,4.0
+ORD100106,2024-05-18,CUST1184,43.0,Female,South,Smart Watch,Electronics,1,3999.0,0.0,3999.0,Debit Card,5.0
+ORD100107,2025-05-13,CUST1015,44.0,Female,North,Office Chair,Furniture,5,7499.0,0.0,37495.0,UPI,4.0
+ORD100108,2025-08-15,CUST1157,63.0,Female,North,Bluetooth Speaker,Electronics,2,1899.05,0.2,3038.48,Credit Card,5.0
+ORD100109,2025-01-26,CUST1136,60.0,Male,North,Office Chair,Furniture,5,7124.05,0.05,33839.24,Debit Card,2.0
+ORD100110,2025-11-05,CUST1005,44.0,Female,South,Desk Lamp,Furniture,2,1139.05,0.1,2050.29,Cash,4.0
+ORD100111,2025-02-22,CUST1157,59.0,Female,West,Mechanical Keyboard,Electronics,5,2623.95,0.0,13119.75,Debit Card,5.0
+ORD100112,2024-10-15,CUST1047,23.0,Female,East,Notebook Set,Stationery,3,418.95,0.1,1131.16,Debit Card,4.0
+ORD100113,2025-01-13,CUST1068,32.0,Female,West,Bluetooth Speaker,Electronics,5,2098.95,0.15,8920.54,UPI,3.0
+ORD100114,2025-05-04,CUST1076,47.0,Female,South,Wireless Mouse,Electronics,5,799.0,0.1,3595.5,Net Banking,2.0
+ORD100115,2024-08-18,CUST1173,59.0,Female,South,USB-C Hub,Electronics,1,1573.95,0.0,1573.95,UPI,5.0
+ORD100116,2024-02-10,CUST1130,54.0,Female,North,Water Bottle,Sports,3,599.0,0.1,1617.3,Debit Card,4.0
+ORD100117,2024-01-28,CUST1155,54.0,Male,West,Smart Watch,Electronics,4,4198.95,0.1,15116.22,UPI,4.0
+ORD100118,2024-05-14,CUST1095,59.0,Male,West,Water Bottle,Sports,1,599.0,0.05,569.05,Net Banking,5.0
+ORD100119,2024-07-19,CUST1115,54.0,Female,North,Laptop Backpack,Accessories,4,1363.95,0.15,4637.43,Debit Card,1.0
+ORD100120,2024-02-02,CUST1164,52.0,Male,South,Power Bank,Electronics,2,1678.95,0.1,3022.11,Debit Card,4.0
+ORD100121,2024-02-17,CUST1036,40.0,Female,South,Office Chair,Furniture,4,7124.05,0.15,24221.77,UPI,5.0
+ORD100122,2025-05-17,CUST1026,23.0,Other,East,Running Shoes,Sports,5,3148.95,0.1,14170.28,Credit Card,4.0
+ORD100123,2025-02-10,CUST1043,21.0,Female,West,USB-C Hub,Electronics,4,1573.95,0.0,6295.8,Debit Card,3.0
+ORD100124,2025-07-27,CUST1027,35.0,Male,East,Laptop Backpack,Accessories,1,1234.05,0.05,1172.35,Debit Card,4.0
+ORD100125,2025-12-28,CUST1069,26.0,Male,East,Office Chair,Furniture,1,7499.0,0.0,7499.0,UPI,5.0
+ORD100126,2024-04-08,CUST1148,46.0,Male,North,Denim Jeans,Clothing,4,1709.05,0.15,5810.77,Net Banking,2.0
+ORD100127,2025-11-14,CUST1011,,Female,North,Running Shoes,Sports,1,2849.05,0.1,2564.15,Cash,5.0
+ORD100128,2025-12-26,CUST1074,64.0,Female,North,Bluetooth Speaker,Electronics,1,1999.0,0.1,1799.1,UPI,5.0
+ORD100129,2025-06-30,CUST1104,34.0,Female,North,Mechanical Keyboard,Electronics,4,2623.95,0.05,9971.01,Cash,3.0
+ORD100130,2025-09-04,CUST1038,62.0,Male,East,Travel Mug,Accessories,3,899.0,0.0,2697.0,Credit Card,5.0
+ORD100131,2025-04-06,CUST1134,49.0,Female,East,Smart Watch,Electronics,3,4198.95,0.1,11337.16,Credit Card,4.0
+ORD100132,2025-10-04,CUST1200,65.0,Female,North,Notebook Set,Stationery,2,418.95,0.05,796.0,UPI,4.0
+ORD100133,2024-01-05,CUST1023,39.0,Male,West,Desk Lamp,Furniture,1,1199.0,0.0,1199.0,Credit Card,5.0
+ORD100134,2024-08-05,CUST1047,21.0,Female,North,Wireless Mouse,Electronics,4,759.05,0.1,2732.58,Debit Card,5.0
+ORD100135,2025-05-17,CUST1090,22.0,Male,South,Wireless Mouse,Electronics,1,799.0,0.0,799.0,Credit Card,2.0
+ORD100136,2025-02-01,CUST1046,54.0,Male,South,Notebook Set,Stationery,5,418.95,0.05,1990.01,Debit Card,4.0
+ORD100137,2025-01-27,CUST1107,58.0,Female,South,Bluetooth Speaker,Electronics,1,1999.0,0.05,1899.05,Debit Card,4.0
+ORD100138,2024-07-25,CUST1140,30.0,Male,South,Cotton T-Shirt,Clothing,1,699.0,0.0,699.0,Debit Card,4.0
+ORD100139,2024-01-15,CUST1141,51.0,Female,South,Wireless Mouse,Electronics,3,838.95,0.2,2013.48,UPI,4.0
+ORD100140,2025-07-07,CUST1104,62.0,Female,,Smart Watch,Electronics,4,3799.05,0.0,15196.2,Cash,2.0
+ORD100141,2025-04-05,CUST1190,39.0,Female,West,Bluetooth Speaker,Electronics,1,1999.0,0.0,1999.0,Credit Card,5.0
+ORD100142,2025-11-21,CUST1111,40.0,Male,North,USB-C Hub,Electronics,3,1573.95,0.0,4721.85,UPI,
+ORD100143,2025-07-28,CUST1104,20.0,Female,North,Wireless Mouse,Electronics,2,838.95,0.1,1510.11,UPI,3.0
+ORD100144,2024-08-28,CUST1060,59.0,Female,North,Water Bottle,Sports,3,599.0,0.05,1707.15,Credit Card,5.0
+ORD100145,2025-07-17,CUST1171,51.0,Female,East,Bluetooth Speaker,Electronics,3,1899.05,0.1,5127.43,Cash,5.0
+ORD100146,2024-04-05,CUST1100,49.0,Male,North,Smart Watch,Electronics,3,3999.0,0.0,11997.0,Credit Card,4.0
+ORD100147,2025-04-29,CUST1068,62.0,Male,West,Notebook Set,Stationery,1,379.05,0.0,379.05,Debit Card,3.0
+ORD100148,2025-02-10,CUST1133,38.0,Female,South,Travel Mug,Accessories,1,854.05,0.05,811.35,UPI,4.0
+ORD100149,2024-08-18,CUST1120,63.0,Male,South,Water Bottle,Sports,2,569.05,0.15,967.38,Credit Card,3.0
+ORD100150,2025-10-16,CUST1037,61.0,Female,East,Running Shoes,Sports,5,2849.05,0.15,12108.46,Net Banking,3.0
+ORD100151,2024-06-19,CUST1072,38.0,Female,North,Running Shoes,Sports,5,2999.0,0.0,14995.0,Debit Card,5.0
+ORD100152,2025-06-24,CUST1127,61.0,Female,North,Wireless Mouse,Electronics,5,838.95,0.05,3985.01,UPI,1.0
+ORD100153,2024-02-05,CUST1106,28.0,Female,South,Water Bottle,Sports,2,628.95,0.15,1069.22,Credit Card,2.0
+ORD100154,2025-06-08,CUST1092,56.0,Female,East,Mechanical Keyboard,Electronics,5,2623.95,0.05,12463.76,UPI,1.0
+ORD100155,2024-06-08,CUST1031,21.0,Female,North,Office Chair,Furniture,5,7873.95,0.15,33464.29,Credit Card,3.0
+ORD100156,2025-11-29,CUST1122,18.0,Female,North,Running Shoes,Sports,3,3148.95,0.0,9446.85,Debit Card,2.0
+ORD100157,2024-08-30,CUST1137,45.0,Female,West,Mechanical Keyboard,Electronics,1,2623.95,0.15,2230.36,Debit Card,5.0
+ORD100158,2024-03-26,CUST1051,41.0,Male,North,USB-C Hub,Electronics,1,1499.0,0.1,1349.1,UPI,3.0
+ORD100159,2025-07-31,CUST1029,52.0,Male,West,Bluetooth Speaker,Electronics,3,1899.05,0.15,4842.58,Net Banking,3.0
+ORD100160,2025-11-12,CUST1040,30.0,Female,West,Office Chair,Furniture,3,7873.95,0.1,21259.66,Credit Card,3.0
+ORD100161,2025-07-10,CUST1041,64.0,Male,South,Laptop Backpack,Accessories,3,1299.0,0.05,3702.15,Credit Card,5.0
+ORD100162,2025-07-27,CUST1011,51.0,Male,North,Power Bank,Electronics,1,1678.95,0.15,1427.11,Credit Card,4.0
+ORD100163,2025-10-07,CUST1151,28.0,Male,North,Smart Watch,Electronics,5,4198.95,0.0,20994.75,Debit Card,4.0
+ORD100164,2024-01-28,CUST1001,53.0,Female,East,Desk Lamp,Furniture,3,1139.05,0.05,3246.29,Credit Card,5.0
+ORD100165,2025-09-11,CUST1046,34.0,Female,East,Power Bank,Electronics,2,1519.05,0.1,2734.29,Credit Card,4.0
+ORD100166,2025-07-09,CUST1101,52.0,Female,West,Power Bank,Electronics,3,1519.05,,4101.43,Credit Card,4.0
+ORD100167,2024-12-05,CUST1149,35.0,Female,West,Bluetooth Speaker,Electronics,4,2098.95,0.15,7136.43,UPI,3.0
+ORD100168,2024-11-26,CUST1090,57.0,Female,East,Notebook Set,Stationery,3,418.95,0.0,1256.85,Cash,4.0
+ORD100169,2025-10-01,CUST1110,39.0,Male,North,Office Chair,Furniture,1,7873.95,0.1,7086.56,Credit Card,4.0
+ORD100170,2025-05-20,CUST1164,41.0,Female,South,Smart Watch,Electronics,3,3799.05,0.1,10257.44,UPI,5.0
+ORD100171,2024-12-13,CUST1182,36.0,Male,West,Office Chair,Furniture,4,7499.0,0.0,29996.0,Debit Card,3.0
+ORD100172,2025-04-17,CUST1057,54.0,Female,North,Water Bottle,Sports,2,628.95,0.05,1195.01,Net Banking,4.0
+ORD100173,2024-08-18,CUST1001,56.0,Female,North,USB-C Hub,Electronics,5,1573.95,0.0,7869.75,Net Banking,2.0
+ORD100174,2024-07-08,CUST1063,38.0,Male,East,Denim Jeans,Clothing,3,1888.95,0.05,5383.51,Credit Card,3.0
+ORD100175,2024-08-12,CUST1182,25.0,Male,South,Desk Lamp,,4,1199.0,0.2,3836.8,UPI,4.0
+ORD100176,2025-01-19,CUST1055,45.0,Male,West,Wireless Mouse,Electronics,4,838.95,0.1,3020.22,Credit Card,5.0
+ORD100177,2025-01-11,CUST1115,22.0,Male,East,Office Chair,Furniture,2,7499.0,0.1,13498.2,UPI,4.0
+ORD100178,2024-10-09,CUST1168,34.0,Male,North,Smart Watch,Electronics,1,4198.95,0.2,3359.16,Net Banking,5.0
+ORD100179,2025-09-24,CUST1143,54.0,Female,West,Smart Watch,Electronics,3,3999.0,0.05,11397.15,UPI,3.0
+ORD100180,2025-09-19,CUST1149,53.0,Female,South,Water Bottle,Sports,4,628.95,0.15,2138.43,UPI,2.0
+ORD100181,2024-09-15,CUST1175,36.0,Female,South,Mechanical Keyboard,Electronics,2,2374.05,0.05,4510.7,Credit Card,2.0
+ORD100182,2024-12-24,CUST1053,44.0,Female,South,Bluetooth Speaker,Electronics,5,1899.05,0.15,8070.96,Credit Card,4.0
+ORD100183,2025-12-10,CUST1137,51.0,Female,North,Notebook Set,Stationery,4,379.05,0.0,1516.2,Debit Card,3.0
+ORD100184,2025-03-31,CUST1180,28.0,Female,South,Denim Jeans,Clothing,2,1709.05,0.15,2905.38,Credit Card,3.0
+ORD100185,2025-02-14,CUST1057,62.0,Male,North,Cotton T-Shirt,Clothing,1,733.95,0.0,733.95,UPI,5.0
+ORD100186,2025-10-10,CUST1117,,Female,South,Wireless Mouse,Electronics,1,759.05,0.05,721.1,UPI,1.0
+ORD100187,2024-11-13,CUST1154,29.0,Male,South,Laptop Backpack,Accessories,4,1299.0,0.1,4676.4,Credit Card,4.0
+ORD100188,2025-11-07,CUST1169,38.0,Other,West,Cotton T-Shirt,Clothing,4,664.05,0.05,2523.39,UPI,4.0
+ORD100189,2024-08-12,CUST1035,28.0,Female,West,Power Bank,Electronics,3,1519.05,0.1,4101.43,Debit Card,4.0
+ORD100190,2024-08-21,CUST1063,56.0,Female,North,Bluetooth Speaker,Electronics,2,1899.05,0.05,3608.2,Credit Card,4.0
+ORD100191,2025-11-14,CUST1025,45.0,Male,South,Power Bank,Electronics,4,1678.95,0.1,6044.22,Debit Card,4.0
+ORD100192,2025-10-25,CUST1090,22.0,Female,South,Power Bank,Electronics,3,1519.05,0.0,4557.15,Net Banking,3.0
+ORD100193,2025-01-08,CUST1075,34.0,Female,North,Wireless Mouse,Electronics,3,799.0,0.0,2397.0,Net Banking,5.0
+ORD100194,2025-11-02,CUST1038,37.0,Male,West,Smart Watch,Electronics,4,3799.05,0.0,15196.2,Net Banking,5.0
+ORD100195,2025-08-30,CUST1130,58.0,Male,East,Travel Mug,Accessories,1,854.05,0.05,811.35,UPI,3.0
+ORD100196,2025-04-16,CUST1135,63.0,Female,North,Laptop Backpack,Accessories,2,1234.05,0.0,2468.1,UPI,2.0
+ORD100197,2024-08-20,CUST1162,29.0,Male,South,Office Chair,Furniture,2,7499.0,0.05,14248.1,UPI,5.0
+ORD100198,2025-11-22,CUST1091,23.0,Female,North,Mechanical Keyboard,Electronics,1,2374.05,0.05,2255.35,Cash,4.0
+ORD100199,2024-04-22,CUST1017,34.0,Male,East,Denim Jeans,Clothing,4,1799.0,0.0,7196.0,Net Banking,4.0
+ORD100200,2025-05-11,CUST1128,36.0,Male,North,Office Chair,Furniture,2,7499.0,0.1,13498.2,Cash,4.0
+ORD100201,2025-03-17,CUST1171,43.0,Female,West,Notebook Set,Stationery,4,379.05,0.15,1288.77,UPI,2.0
+ORD100202,2025-07-17,CUST1187,65.0,Male,West,Mechanical Keyboard,Electronics,4,2499.0,0.0,9996.0,Net Banking,4.0
+ORD100203,2024-09-24,CUST1108,61.0,Female,South,USB-C Hub,Electronics,3,1573.95,0.1,4249.67,Credit Card,4.0
+ORD100204,2025-05-24,CUST1179,61.0,Male,East,Travel Mug,Accessories,1,854.05,0.1,768.64,UPI,3.0
+ORD100205,2025-01-20,CUST1182,49.0,Male,West,Water Bottle,Sports,4,569.05,0.05,2162.39,Credit Card,4.0
+ORD100206,2025-01-21,CUST1152,23.0,Female,East,Wireless Mouse,Electronics,5,799.0,0.1,3595.5,UPI,5.0
+ORD100207,2024-04-22,CUST1025,53.0,Female,North,Office Chair,Furniture,1,7499.0,0.05,7124.05,Credit Card,4.0
+ORD100208,2025-09-04,CUST1199,55.0,Female,South,Mechanical Keyboard,Electronics,2,2374.05,0.05,4510.7,UPI,2.0
+ORD100209,2025-09-16,CUST1180,28.0,Female,West,Travel Mug,Accessories,3,943.95,0.0,2831.85,,4.0
+ORD100210,2024-03-21,CUST1198,50.0,Female,East,Cotton T-Shirt,Clothing,2,699.0,0.1,1258.2,Debit Card,5.0
+ORD100211,2025-11-29,CUST1088,41.0,Male,East,Water Bottle,Sports,2,599.0,0.1,1078.2,Cash,5.0
+ORD100212,2024-04-22,CUST1161,40.0,Male,West,Mechanical Keyboard,Electronics,1,2623.95,0.0,2623.95,Debit Card,4.0
+ORD100213,2024-01-02,CUST1177,32.0,Female,West,Running Shoes,Sports,2,3148.95,0.05,5983.0,Credit Card,3.0
+ORD100214,2025-10-03,CUST1029,44.0,Female,West,Power Bank,Electronics,4,1519.05,0.2,4860.96,Cash,5.0
+ORD100215,2024-08-07,CUST1063,28.0,Female,North,USB-C Hub,Electronics,2,1573.95,0.05,2990.5,Net Banking,5.0
+ORD100216,2025-07-19,CUST1150,34.0,Male,East,Bluetooth Speaker,Electronics,3,1899.05,0.05,5412.29,UPI,
+ORD100217,2024-08-12,CUST1154,31.0,Male,East,Office Chair,Furniture,3,7873.95,0.15,20078.57,Credit Card,4.0
+ORD100218,2025-01-19,CUST1156,44.0,Female,West,Power Bank,Electronics,5,1599.0,0.1,7195.5,UPI,4.0
+ORD100219,2025-02-06,CUST1114,35.0,Female,East,Notebook Set,Stationery,3,379.05,0.1,1023.44,UPI,5.0
+ORD100220,2025-09-29,CUST1049,45.0,Female,North,Denim Jeans,Clothing,2,1709.05,0.1,3076.29,Debit Card,3.0
+ORD100221,2024-05-09,CUST1199,64.0,Female,West,Travel Mug,Accessories,3,854.05,0.15,2177.83,Cash,4.0
+ORD100222,2024-02-22,CUST1081,64.0,Female,East,USB-C Hub,Electronics,1,1573.95,0.05,1495.25,,5.0
+ORD100223,2025-11-14,CUST1084,21.0,Male,North,Water Bottle,Sports,3,599.0,0.05,1707.15,Cash,5.0
+ORD100224,2025-12-30,CUST1105,24.0,Male,South,Running Shoes,Sports,4,2849.05,0.05,10826.39,Cash,5.0
+ORD100225,2025-11-02,CUST1177,62.0,Male,North,Wireless Mouse,Electronics,1,759.05,0.2,607.24,Net Banking,5.0
+ORD100226,2025-12-10,CUST1148,52.0,Male,South,Cotton T-Shirt,Clothing,5,664.05,0.1,2988.22,UPI,1.0
+ORD100227,2025-02-19,CUST1118,65.0,Female,North,Denim Jeans,Clothing,4,1709.05,0.0,6836.2,Net Banking,4.0
+ORD100228,2024-09-03,CUST1086,26.0,Male,South,Office Chair,Furniture,2,7499.0,0.15,12748.3,UPI,4.0
+ORD100229,2025-03-14,CUST1063,25.0,Female,East,Travel Mug,Accessories,2,943.95,0.05,1793.5,Credit Card,5.0
+ORD100230,2024-07-21,CUST1189,62.0,Male,East,Denim Jeans,Clothing,2,1799.0,0.0,3598.0,UPI,3.0
+ORD100231,2024-07-02,CUST1104,34.0,Male,East,USB-C Hub,Electronics,4,1424.05,0.05,5411.39,UPI,5.0
+ORD100232,2024-05-02,CUST1049,34.0,Male,West,Travel Mug,Accessories,4,899.0,0.05,3416.2,Debit Card,4.0
+ORD100233,2025-02-04,CUST1071,50.0,Male,North,Water Bottle,Sports,4,569.05,0.15,1934.77,Credit Card,5.0
+ORD100234,2024-10-20,CUST1001,49.0,Female,North,Wireless Mouse,Electronics,1,838.95,0.0,838.95,UPI,2.0
+ORD100235,2024-10-06,CUST1141,25.0,,West,Smart Watch,Electronics,1,4198.95,0.15,3569.11,UPI,3.0
+ORD100236,2025-09-01,CUST1179,36.0,Female,North,Notebook Set,Stationery,2,418.95,0.1,754.11,Debit Card,5.0
+ORD100237,2024-07-16,CUST1123,55.0,Male,West,Running Shoes,Sports,3,2849.05,0.0,8547.15,UPI,1.0
+ORD100238,2025-05-25,CUST1184,20.0,Male,West,Office Chair,Furniture,2,7499.0,0.2,11998.4,Cash,5.0
+ORD100239,2024-05-23,CUST1062,22.0,Male,South,Smart Watch,Electronics,5,4198.95,0.05,19945.01,UPI,1.0
+ORD100240,2025-08-31,CUST1032,30.0,Female,West,Cotton T-Shirt,Clothing,1,664.05,0.0,664.05,UPI,5.0
+ORD100241,2024-07-19,CUST1158,64.0,Female,North,Wireless Mouse,Electronics,4,759.05,0.05,2884.39,Credit Card,4.0
+ORD100242,2024-05-03,CUST1029,63.0,Male,South,Desk Lamp,Furniture,1,1199.0,0.15,1019.15,Credit Card,4.0
+ORD100243,2024-07-05,CUST1049,48.0,Male,East,Desk Lamp,Furniture,4,1258.95,0.05,4784.01,Credit Card,5.0
+ORD100244,2024-11-21,CUST1173,33.0,Female,South,Wireless Mouse,Electronics,5,759.05,0.0,3795.25,UPI,4.0
+ORD100245,2025-04-08,CUST1030,49.0,Male,West,Running Shoes,Sports,5,2999.0,0.0,14995.0,Net Banking,2.0
+ORD100246,2024-12-14,CUST1144,39.0,Male,North,Laptop Backpack,Accessories,1,1363.95,0.0,1363.95,Debit Card,2.0
+ORD100247,2025-10-21,CUST1168,46.0,Female,East,Smart Watch,Electronics,4,3999.0,0.1,14396.4,UPI,4.0
+ORD100248,2025-02-06,CUST1019,39.0,Female,East,Mechanical Keyboard,Electronics,5,2499.0,0.05,11870.25,Credit Card,4.0
+ORD100249,2024-12-11,CUST1018,60.0,Male,East,Denim Jeans,Clothing,2,1709.05,0.0,3418.1,Cash,5.0
+ORD100250,2025-05-25,CUST1001,20.0,Female,South,Office Chair,Furniture,2,7124.05,0.0,14248.1,UPI,4.0
+ORD100251,2024-05-26,CUST1078,27.0,Female,South,Laptop Backpack,Accessories,4,1234.05,0.05,4689.39,UPI,4.0
+ORD100252,2024-05-27,CUST1115,59.0,Male,West,Mechanical Keyboard,Electronics,1,2499.0,0.15,2124.15,Debit Card,4.0
+ORD100253,2025-12-11,CUST1175,38.0,Female,North,Notebook Set,Stationery,5,379.05,0.05,1800.49,Debit Card,1.0
+ORD100254,2025-05-03,CUST1194,33.0,Female,West,Water Bottle,Sports,1,599.0,0.2,479.2,Credit Card,4.0
+ORD100255,2025-10-01,CUST1113,29.0,Male,East,Office Chair,Furniture,2,7499.0,0.05,14248.1,UPI,5.0
+ORD100256,2025-07-04,CUST1114,19.0,Male,West,Office Chair,Furniture,5,7124.05,0.0,35620.25,UPI,5.0
+ORD100257,2024-12-03,CUST1166,58.0,Male,East,Desk Lamp,Furniture,1,1258.95,0.15,1070.11,Debit Card,4.0
+ORD100258,2025-10-02,CUST1179,41.0,Female,North,Running Shoes,Sports,3,3148.95,0.05,8974.51,UPI,4.0
+ORD100259,2025-04-17,CUST1063,52.0,Male,East,Water Bottle,Sports,4,628.95,0.1,2264.22,Credit Card,5.0
+ORD100260,2024-05-30,CUST1132,47.0,Female,West,Denim Jeans,Clothing,4,1799.0,0.2,5756.8,Credit Card,4.0
+ORD100261,2025-02-18,CUST1129,47.0,Female,South,Bluetooth Speaker,Electronics,3,1999.0,0.0,5997.0,UPI,1.0
+ORD100262,2024-10-24,CUST1008,64.0,Male,West,Mechanical Keyboard,Electronics,2,2499.0,0.0,4998.0,Net Banking,2.0
+ORD100263,2025-09-02,CUST1157,52.0,Female,South,Desk Lamp,Furniture,5,1139.05,0.1,5125.73,Cash,4.0
+ORD100264,2024-09-19,CUST1055,36.0,Male,North,Office Chair,Furniture,4,7499.0,0.0,29996.0,Debit Card,5.0
+ORD100265,2024-05-23,CUST1103,25.0,Female,South,Laptop Backpack,Accessories,3,1234.05,0.0,3702.15,UPI,5.0
+ORD100266,2024-12-11,CUST1131,43.0,Female,West,Power Bank,Electronics,3,1519.05,0.0,4557.15,UPI,2.0
+ORD100267,2025-09-15,CUST1032,57.0,Male,South,Desk Lamp,Furniture,2,1258.95,0.0,2517.9,Credit Card,3.0
+ORD100268,2025-07-25,CUST1010,24.0,Male,West,Mechanical Keyboard,Electronics,2,2623.95,0.1,4723.11,UPI,5.0
+ORD100269,2024-01-02,CUST1110,47.0,Male,West,Mechanical Keyboard,Electronics,1,2623.95,0.0,2623.95,Net Banking,5.0
+ORD100270,2024-10-30,CUST1162,24.0,Male,South,Power Bank,Electronics,4,1519.05,0.05,5772.39,UPI,4.0
+ORD100271,2024-09-10,CUST1124,20.0,Male,North,Running Shoes,Sports,1,2849.05,0.1,2564.15,Credit Card,4.0
+ORD100272,2025-10-13,CUST1087,18.0,Male,East,Office Chair,Furniture,3,7124.05,0.05,20303.54,Credit Card,1.0
+ORD100273,2025-03-28,CUST1055,53.0,Other,South,Water Bottle,Sports,5,599.0,0.0,2995.0,Debit Card,5.0
+ORD100274,2024-02-06,CUST1032,42.0,Male,West,Smart Watch,Electronics,5,3799.05,0.1,17095.73,UPI,5.0
+ORD100275,2024-06-08,CUST1178,54.0,Male,South,Notebook Set,Stationery,2,418.95,0.0,837.9,Credit Card,3.0
+ORD100276,2024-01-09,CUST1135,18.0,Female,South,Bluetooth Speaker,Electronics,5,2098.95,0.1,9445.28,UPI,5.0
+ORD100277,2024-08-20,CUST1093,32.0,Male,West,Running Shoes,Sports,5,2849.05,0.15,12108.46,Cash,3.0
+ORD100278,2024-04-08,CUST1008,54.0,Female,South,Cotton T-Shirt,Clothing,5,664.05,0.05,3154.24,UPI,1.0
+ORD100279,2025-10-20,CUST1065,30.0,Female,South,Notebook Set,Stationery,3,418.95,0.05,1194.01,Net Banking,3.0
+ORD100280,2024-07-26,CUST1057,57.0,Female,South,Office Chair,Furniture,5,7124.05,0.05,33839.24,Cash,3.0
+ORD100281,2024-05-10,CUST1067,25.0,Male,South,Running Shoes,Sports,5,3148.95,0.05,14957.51,UPI,4.0
+ORD100282,2025-02-07,CUST1187,22.0,Male,South,Denim Jeans,Clothing,5,1799.0,0.15,7645.75,Debit Card,4.0
+ORD100283,2024-05-31,CUST1072,26.0,Male,West,Bluetooth Speaker,Electronics,1,2098.95,0.15,1784.11,UPI,4.0
+ORD100284,2024-02-23,CUST1054,18.0,Female,South,Desk Lamp,Furniture,3,1199.0,0.05,3417.15,Net Banking,4.0
+ORD100285,2024-04-29,CUST1067,53.0,Male,South,Power Bank,Electronics,2,1519.05,0.1,2734.29,Credit Card,3.0
+ORD100286,2025-11-03,CUST1051,52.0,Male,East,Wireless Mouse,Electronics,1,759.05,0.15,645.19,UPI,1.0
+ORD100287,2025-09-19,CUST1097,19.0,Other,South,Cotton T-Shirt,Clothing,4,699.0,0.2,2236.8,Credit Card,4.0
+ORD100288,2025-08-09,CUST1092,57.0,Male,South,USB-C Hub,Electronics,3,1424.05,0.05,4058.54,UPI,4.0
+ORD100289,2025-09-16,CUST1008,40.0,Male,West,Travel Mug,Accessories,3,899.0,0.05,2562.15,Net Banking,3.0
+ORD100290,2025-02-23,CUST1162,26.0,Male,East,Running Shoes,Sports,4,2849.05,0.0,11396.2,UPI,5.0
+ORD100291,2025-02-25,CUST1035,51.0,Other,East,Mechanical Keyboard,Electronics,4,2623.95,0.2,8396.64,Debit Card,5.0
+ORD100292,2024-04-13,CUST1096,63.0,Male,East,Smart Watch,Electronics,4,3799.05,0.0,15196.2,Credit Card,5.0
+ORD100293,2024-09-10,CUST1088,31.0,,North,Wireless Mouse,Electronics,2,838.95,0.1,1510.11,Net Banking,4.0
+ORD100294,2024-08-14,CUST1078,21.0,Female,East,Running Shoes,Sports,5,3148.95,0.0,15744.75,UPI,3.0
+ORD100295,2024-04-21,CUST1032,47.0,Male,South,Running Shoes,Sports,3,2999.0,0.0,8997.0,Credit Card,5.0
+ORD100296,2025-05-24,CUST1120,48.0,Female,East,Laptop Backpack,Accessories,5,1234.05,0.05,5861.74,Credit Card,3.0
+ORD100297,2025-04-17,CUST1046,55.0,Male,South,Notebook Set,Stationery,5,399.0,0.2,1596.0,Debit Card,4.0
+ORD100298,2024-04-08,CUST1144,28.0,Male,North,Laptop Backpack,Accessories,4,1234.05,0.0,4936.2,UPI,2.0
+ORD100299,2024-06-01,CUST1196,52.0,Female,North,Wireless Mouse,Electronics,2,838.95,0.1,1510.11,UPI,5.0
+ORD100300,2024-12-03,CUST1165,25.0,Female,West,Water Bottle,Sports,1,628.95,0.0,628.95,UPI,2.0
+ORD100301,2025-12-06,CUST1182,20.0,Female,South,Desk Lamp,Furniture,2,1139.05,0.0,2278.1,Debit Card,5.0
+ORD100302,2024-06-11,CUST1142,31.0,Female,South,Laptop Backpack,Accessories,5,1234.05,0.05,5861.74,UPI,5.0
+ORD100303,2025-12-20,CUST1055,30.0,Male,North,Mechanical Keyboard,Electronics,2,2499.0,0.05,4748.1,Credit Card,4.0
+ORD100304,2025-11-11,CUST1176,62.0,Male,North,Cotton T-Shirt,Clothing,4,664.05,0.0,2656.2,UPI,5.0
+ORD100305,2024-06-09,CUST1007,49.0,Male,,USB-C Hub,Electronics,1,1424.05,0.05,1352.85,Cash,4.0
+ORD100306,2025-08-02,CUST1074,51.0,Male,South,Notebook Set,Stationery,4,379.05,0.0,1516.2,Net Banking,5.0
+ORD100307,2025-02-01,CUST1007,62.0,Male,South,Power Bank,Electronics,1,1599.0,0.05,1519.05,Credit Card,4.0
+ORD100308,2024-10-03,CUST1161,36.0,Male,South,Bluetooth Speaker,Electronics,5,1899.05,0.2,7596.2,Credit Card,5.0
+ORD100309,2025-05-18,CUST1151,55.0,Male,East,USB-C Hub,Electronics,1,1573.95,,1337.86,UPI,4.0
+ORD100310,2025-01-26,CUST1085,33.0,Male,North,USB-C Hub,Electronics,1,1499.0,,1424.05,UPI,5.0
+ORD100311,2024-05-14,CUST1147,19.0,Female,North,Bluetooth Speaker,Electronics,1,1999.0,0.1,1799.1,UPI,4.0
+ORD100312,2024-07-13,CUST1112,57.0,Female,South,Laptop Backpack,Accessories,2,1363.95,0.15,2318.72,Debit Card,4.0
+ORD100313,2025-02-04,CUST1125,34.0,Male,South,Wireless Mouse,Electronics,2,838.95,0.0,1677.9,Credit Card,5.0
+ORD100314,2025-10-01,CUST1147,51.0,Female,South,Bluetooth Speaker,Electronics,5,2098.95,0.15,8920.54,Net Banking,5.0
+ORD100315,2024-02-02,CUST1036,59.0,Female,East,Desk Lamp,Furniture,1,1139.05,0.15,968.19,Credit Card,4.0
+ORD100316,2025-11-18,CUST1029,33.0,Male,East,Desk Lamp,Furniture,3,1258.95,0.0,3776.85,Debit Card,3.0
+ORD100317,2025-04-04,CUST1188,55.0,Female,West,Office Chair,Furniture,5,7124.05,0.0,35620.25,Credit Card,4.0
+ORD100318,2025-04-14,CUST1082,19.0,Female,South,Denim Jeans,Clothing,1,1799.0,0.2,1439.2,Credit Card,5.0
+ORD100319,2025-01-09,CUST1002,19.0,Female,North,Water Bottle,Sports,1,599.0,0.05,569.05,UPI,5.0
+ORD100320,2024-01-22,CUST1129,43.0,Male,South,Cotton T-Shirt,Clothing,2,733.95,0.0,1467.9,Credit Card,5.0
+ORD100321,2025-10-31,CUST1047,30.0,Female,West,Smart Watch,Electronics,5,3799.05,0.0,18995.25,Credit Card,1.0
+ORD100322,2024-02-07,CUST1197,64.0,Male,East,Laptop Backpack,Accessories,1,1363.95,0.05,1295.75,Debit Card,4.0
+ORD100323,2024-08-17,CUST1148,48.0,Female,East,Notebook Set,Stationery,1,418.95,0.1,377.06,Net Banking,4.0
+ORD100324,2024-12-30,CUST1011,51.0,Female,North,Power Bank,Electronics,5,1519.05,0.1,6835.72,UPI,5.0
+ORD100325,2025-07-16,CUST1130,56.0,Female,South,Water Bottle,Sports,3,628.95,0.2,1509.48,UPI,1.0
+ORD100326,2025-03-13,CUST1195,20.0,Female,North,Bluetooth Speaker,Electronics,5,1999.0,0.0,9995.0,Credit Card,5.0
+ORD100327,2024-10-09,CUST1119,25.0,Female,East,Denim Jeans,Clothing,5,1888.95,0.05,8972.51,Credit Card,4.0
+ORD100328,2024-01-27,CUST1140,40.0,Male,West,Smart Watch,Electronics,3,3799.05,0.05,10827.29,UPI,3.0
+ORD100329,2024-08-13,CUST1020,31.0,Male,West,Notebook Set,Stationery,5,379.05,0.05,1800.49,Debit Card,4.0
+ORD100330,2024-10-03,CUST1005,44.0,Female,East,Cotton T-Shirt,Clothing,1,699.0,0.0,699.0,Net Banking,3.0
+ORD100331,2025-08-31,CUST1037,46.0,Male,South,Travel Mug,Accessories,5,854.05,0.2,3416.2,Net Banking,4.0
+ORD100332,2024-10-10,CUST1166,56.0,Male,West,Cotton T-Shirt,Clothing,3,664.05,0.15,1693.33,UPI,2.0
+ORD100333,2025-04-25,CUST1137,56.0,Male,East,Laptop Backpack,Accessories,4,1299.0,0.05,4936.2,Cash,3.0
+ORD100334,2025-03-28,CUST1053,18.0,Male,North,Bluetooth Speaker,Electronics,5,2098.95,0.1,9445.28,Debit Card,5.0
+ORD100335,2025-10-20,CUST1172,34.0,Female,South,Travel Mug,Accessories,2,899.0,0.0,1798.0,Credit Card,3.0
+ORD100336,2025-05-30,CUST1099,58.0,Female,South,Water Bottle,Sports,1,628.95,0.05,597.5,Credit Card,3.0
+ORD100337,2025-06-30,CUST1086,47.0,Female,South,Wireless Mouse,Electronics,1,799.0,0.1,719.1,Cash,4.0
+ORD100338,2024-07-10,CUST1108,30.0,Female,South,Water Bottle,Sports,2,628.95,0.05,1195.01,Credit Card,4.0
+ORD100339,2024-02-18,CUST1024,38.0,Male,East,Water Bottle,Sports,2,599.0,0.2,958.4,Credit Card,5.0
+ORD100340,2025-05-26,CUST1081,36.0,Male,South,Cotton T-Shirt,Clothing,5,733.95,0.1,3302.78,Credit Card,4.0
+ORD100341,2024-01-17,CUST1158,36.0,Female,North,Wireless Mouse,Electronics,2,799.0,0.05,1518.1,Credit Card,5.0
+ORD100342,2024-06-20,CUST1120,42.0,Male,South,Wireless Mouse,Electronics,4,838.95,0.1,3020.22,UPI,4.0
+ORD100343,2024-08-07,CUST1059,39.0,Female,West,Laptop Backpack,Accessories,3,1299.0,0.0,3897.0,Net Banking,2.0
+ORD100344,2024-06-06,CUST1128,48.0,Female,East,Notebook Set,Stationery,2,379.05,0.05,720.2,Debit Card,3.0
+ORD100345,2025-04-21,CUST1114,34.0,Male,South,Smart Watch,Electronics,2,4198.95,0.05,7978.0,Debit Card,4.0
+ORD100346,2024-02-15,CUST1115,40.0,Female,West,Running Shoes,Sports,4,2999.0,0.05,11396.2,UPI,4.0
+ORD100347,2025-01-07,CUST1014,49.0,Female,West,USB-C Hub,Electronics,1,1573.95,0.1,1416.56,Debit Card,5.0
+ORD100348,2025-06-01,CUST1009,27.0,Female,North,Notebook Set,Stationery,1,418.95,,398.0,UPI,4.0
+ORD100349,2024-04-08,CUST1040,27.0,Male,,USB-C Hub,Electronics,5,1499.0,0.1,6745.5,UPI,4.0
+ORD100350,2024-02-06,CUST1194,53.0,Male,East,Cotton T-Shirt,Clothing,4,733.95,0.1,2642.22,Credit Card,3.0
+ORD100351,2024-10-06,CUST1025,25.0,Female,West,Running Shoes,Sports,3,2999.0,0.05,8547.15,Credit Card,3.0
+ORD100352,2024-12-14,CUST1103,37.0,Male,West,Smart Watch,Electronics,3,3799.05,0.15,9687.58,Credit Card,4.0
+ORD100353,2025-05-11,CUST1022,49.0,Male,West,Running Shoes,Sports,4,3148.95,0.0,12595.8,UPI,4.0
+ORD100354,2024-10-28,CUST1004,31.0,Female,East,Laptop Backpack,Accessories,3,1234.05,0.0,3702.15,Credit Card,4.0
+ORD100355,2024-06-29,CUST1154,45.0,Male,South,Water Bottle,Sports,1,628.95,0.05,597.5,UPI,3.0
+ORD100356,2025-08-29,CUST1186,63.0,Female,North,Cotton T-Shirt,Clothing,3,733.95,0.0,2201.85,Net Banking,5.0
+ORD100357,2024-04-08,CUST1029,41.0,Female,South,Wireless Mouse,Electronics,3,838.95,,2516.85,Credit Card,5.0
+ORD100358,2025-11-30,CUST1109,32.0,Female,South,Desk Lamp,Furniture,4,1199.0,0.1,4316.4,Debit Card,3.0
+ORD100359,2024-04-25,CUST1098,39.0,Male,East,Cotton T-Shirt,Clothing,4,664.05,0.05,2523.39,UPI,4.0
+ORD100360,2024-07-09,CUST1037,47.0,Female,East,USB-C Hub,Electronics,3,1573.95,0.05,4485.76,UPI,5.0
+ORD100361,2024-09-09,CUST1075,21.0,Male,East,Travel Mug,Accessories,2,899.0,0.2,1438.4,Net Banking,4.0
+ORD100362,2024-06-09,CUST1070,30.0,Male,South,Smart Watch,Electronics,4,4198.95,0.1,15116.22,UPI,4.0
+ORD100363,2024-09-12,CUST1146,40.0,Female,East,Power Bank,Electronics,5,1599.0,0.15,6795.75,Credit Card,2.0
+ORD100364,2024-11-18,CUST1128,25.0,Male,North,Running Shoes,Sports,5,3148.95,0.0,15744.75,Debit Card,4.0
+ORD100365,2024-05-07,CUST1085,35.0,Male,South,Smart Watch,Electronics,1,3799.05,0.1,3419.15,UPI,2.0
+ORD100366,2024-01-18,CUST1042,29.0,Female,West,Notebook Set,Stationery,3,379.05,0.15,966.58,Cash,5.0
+ORD100367,2025-07-19,CUST1100,48.0,Male,East,Power Bank,Electronics,2,1678.95,0.1,3022.11,Credit Card,5.0
+ORD100368,2025-07-23,CUST1041,31.0,Male,West,Laptop Backpack,Accessories,1,1299.0,0.1,1169.1,UPI,5.0
+ORD100369,2024-11-18,CUST1166,51.0,Male,South,Cotton T-Shirt,Clothing,3,733.95,0.05,2091.76,UPI,5.0
+ORD100370,2025-11-16,CUST1034,35.0,Female,South,Notebook Set,Stationery,4,399.0,0.0,1596.0,UPI,4.0
+ORD100371,2025-09-17,CUST1017,51.0,Female,South,Travel Mug,Accessories,5,943.95,0.05,4483.76,Cash,4.0
+ORD100372,2024-10-14,CUST1165,28.0,Male,South,Bluetooth Speaker,Electronics,2,1999.0,0.05,3798.1,Debit Card,5.0
+ORD100373,2025-10-24,CUST1153,58.0,Male,West,Power Bank,Electronics,5,1519.05,0.15,6455.96,UPI,5.0
+ORD100374,2025-09-30,CUST1122,29.0,Male,East,Cotton T-Shirt,Clothing,4,733.95,0.0,2935.8,,4.0
+ORD100375,2024-06-03,CUST1076,32.0,Male,West,Notebook Set,Stationery,3,379.05,0.2,909.72,Debit Card,5.0
+ORD100376,2025-05-04,CUST1087,48.0,Female,North,Wireless Mouse,Electronics,4,759.05,0.2,2428.96,Credit Card,4.0
+ORD100377,2025-01-20,CUST1117,46.0,Male,West,Cotton T-Shirt,Clothing,4,733.95,0.0,2935.8,Credit Card,4.0
+ORD100378,2024-04-13,CUST1106,43.0,Male,North,Denim Jeans,Clothing,5,1888.95,0.05,8972.51,Credit Card,4.0
+ORD100379,2025-01-27,CUST1086,35.0,Female,West,Laptop Backpack,Accessories,2,1299.0,0.15,2208.3,UPI,3.0
+ORD100380,2024-09-02,CUST1027,49.0,Female,South,Mechanical Keyboard,Electronics,4,2499.0,0.2,7996.8,Debit Card,1.0
+ORD100381,2024-06-24,CUST1057,,Female,South,Laptop Backpack,Accessories,5,1234.05,0.05,5861.74,Net Banking,3.0
+ORD100382,2024-02-08,CUST1031,55.0,Male,South,Running Shoes,Sports,2,2999.0,0.05,5698.1,UPI,4.0
+ORD100383,2025-04-21,CUST1134,34.0,Male,West,Desk Lamp,Furniture,3,1199.0,0.05,3417.15,Credit Card,4.0
+ORD100384,2025-11-12,CUST1168,40.0,Male,North,Mechanical Keyboard,Electronics,3,2623.95,0.1,7084.66,Credit Card,4.0
+ORD100385,2025-06-21,CUST1098,41.0,Male,South,Travel Mug,Accessories,1,899.0,0.0,899.0,Credit Card,5.0
+ORD100386,2025-02-11,CUST1012,25.0,Female,West,Running Shoes,Sports,5,2849.05,0.1,12820.72,UPI,4.0
+ORD100387,2025-06-08,CUST1053,,Female,South,Running Shoes,Sports,2,2999.0,0.0,5998.0,Cash,4.0
+ORD100388,2025-05-20,CUST1199,23.0,Female,North,Wireless Mouse,Electronics,4,759.05,0.0,3036.2,Credit Card,3.0
+ORD100389,2024-02-05,CUST1138,22.0,Female,South,Travel Mug,Accessories,3,943.95,0.05,2690.26,Credit Card,1.0
+ORD100390,2025-11-15,CUST1173,61.0,Male,South,Wireless Mouse,Electronics,2,759.05,,1442.2,UPI,5.0
+ORD100391,2024-01-20,CUST1145,46.0,Female,West,Travel Mug,Accessories,5,899.0,0.05,4270.25,UPI,4.0
+ORD100392,2024-11-16,CUST1154,45.0,Male,,Office Chair,Furniture,1,7873.95,0.05,7480.25,UPI,5.0
+ORD100393,2025-05-26,CUST1190,28.0,Female,South,Water Bottle,Sports,3,599.0,0.05,1707.15,Debit Card,3.0
+ORD100394,2025-02-03,CUST1122,18.0,Male,West,USB-C Hub,Electronics,2,1573.95,0.0,3147.9,UPI,4.0
+ORD100395,2025-10-15,CUST1046,60.0,Male,South,Travel Mug,Accessories,2,943.95,0.05,1793.5,Debit Card,3.0
+ORD100396,2025-04-15,CUST1064,36.0,Male,North,Water Bottle,Sports,2,599.0,0.2,958.4,Credit Card,3.0
+ORD100397,2024-05-22,CUST1130,26.0,Female,South,Water Bottle,Sports,5,599.0,0.05,2845.25,Credit Card,1.0
+ORD100398,2024-04-01,CUST1054,44.0,Male,South,Power Bank,Electronics,5,1678.95,0.05,7975.01,Credit Card,3.0
+ORD100399,2024-12-19,CUST1107,51.0,Male,North,Desk Lamp,Furniture,5,1258.95,0.1,5665.28,Credit Card,4.0
+ORD100400,2025-12-27,CUST1193,61.0,Male,West,USB-C Hub,Electronics,4,1499.0,0.2,4796.8,UPI,2.0
+ORD100401,2024-02-20,CUST1051,21.0,Female,West,Bluetooth Speaker,Electronics,2,1899.05,0.0,3798.1,UPI,5.0
+ORD100402,2025-10-26,CUST1181,53.0,Female,South,Mechanical Keyboard,Electronics,3,2499.0,0.1,6747.3,Debit Card,4.0
+ORD100403,2025-11-28,CUST1036,35.0,Female,East,Smart Watch,Electronics,5,4198.95,0.1,18895.28,Debit Card,3.0
+ORD100404,2025-07-28,CUST1115,,Male,East,Water Bottle,Sports,5,599.0,0.1,2695.5,UPI,3.0
+ORD100405,2024-07-08,CUST1026,30.0,Female,West,Desk Lamp,Furniture,2,1139.05,0.0,2278.1,Credit Card,4.0
+ORD100406,2024-05-04,CUST1029,36.0,Male,West,Office Chair,Furniture,5,7499.0,0.1,33745.5,UPI,2.0
+ORD100407,2024-05-29,CUST1149,23.0,Female,South,Travel Mug,Accessories,4,943.95,0.0,3775.8,UPI,5.0
+ORD100408,2024-11-09,CUST1011,65.0,Female,West,Cotton T-Shirt,Clothing,4,699.0,0.1,2516.4,UPI,5.0
+ORD100409,2025-07-23,CUST1040,29.0,Male,East,Cotton T-Shirt,Clothing,5,733.95,0.1,3302.78,Cash,3.0
+ORD100410,2024-12-07,CUST1011,54.0,Male,East,Power Bank,Electronics,2,1678.95,0.0,3357.9,UPI,4.0
+ORD100411,2024-10-31,CUST1164,34.0,Male,North,Running Shoes,Sports,2,2999.0,0.15,5098.3,UPI,1.0
+ORD100412,2025-11-22,CUST1113,40.0,Male,North,Power Bank,Electronics,2,1678.95,0.0,3357.9,UPI,4.0
+ORD100413,2025-11-12,CUST1187,43.0,Male,South,USB-C Hub,Electronics,1,1573.95,0.15,1337.86,UPI,4.0
+ORD100414,2024-02-23,CUST1039,46.0,Female,South,Running Shoes,Sports,5,2849.05,0.05,13532.99,Debit Card,3.0
+ORD100415,2025-03-19,CUST1054,50.0,Female,North,Power Bank,Electronics,2,1519.05,0.0,3038.1,UPI,3.0
+ORD100416,2025-09-04,CUST1098,44.0,Male,East,Travel Mug,Accessories,4,854.05,0.0,3416.2,UPI,5.0
+ORD100417,2024-09-20,CUST1055,42.0,Male,North,Desk Lamp,Furniture,3,1139.05,0.2,2733.72,Debit Card,
+ORD100418,2024-02-22,CUST1111,27.0,Male,East,Denim Jeans,Clothing,3,1888.95,0.0,5666.85,UPI,3.0
+ORD100419,2025-07-25,CUST1152,64.0,Female,South,Denim Jeans,Clothing,2,1799.0,0.0,3598.0,Debit Card,5.0
+ORD100420,2025-09-11,CUST1150,40.0,Male,West,Office Chair,Furniture,3,7873.95,0.05,22440.76,Credit Card,4.0
+ORD100421,2024-01-05,CUST1069,38.0,Female,South,Notebook Set,Stationery,3,418.95,0.1,1131.16,UPI,5.0
+ORD100422,2024-04-12,CUST1056,38.0,Female,North,Smart Watch,Electronics,1,4198.95,0.05,3989.0,Debit Card,2.0
+ORD100423,2024-07-14,CUST1033,60.0,Female,East,Power Bank,Electronics,4,1599.0,0.0,6396.0,UPI,5.0
+ORD100424,2024-12-15,CUST1036,30.0,Female,West,Wireless Mouse,Electronics,4,759.05,0.0,3036.2,Credit Card,5.0
+ORD100425,2024-02-16,CUST1148,54.0,Male,West,Travel Mug,Accessories,1,943.95,0.0,943.95,Credit Card,2.0
+ORD100426,2025-10-17,CUST1081,50.0,Female,South,Wireless Mouse,Electronics,1,838.95,0.0,838.95,UPI,5.0
+ORD100427,2024-09-25,CUST1190,41.0,Male,South,USB-C Hub,Electronics,3,1424.05,0.05,4058.54,Debit Card,
+ORD100428,2025-01-04,CUST1109,61.0,Male,West,USB-C Hub,Electronics,5,1573.95,0.1,7082.78,Cash,5.0
+ORD100429,2025-09-27,CUST1154,28.0,Female,North,Water Bottle,Sports,3,599.0,0.0,1797.0,Net Banking,3.0
+ORD100430,2024-04-15,CUST1194,34.0,Female,East,Denim Jeans,Clothing,1,1888.95,0.05,1794.5,Debit Card,4.0
+ORD100431,2025-10-31,CUST1073,21.0,Female,South,Power Bank,Electronics,4,1678.95,0.05,6380.01,Credit Card,4.0
+ORD100432,2025-10-20,CUST1040,64.0,Male,North,Water Bottle,Sports,3,569.05,0.2,1365.72,UPI,5.0
+ORD100433,2025-10-18,CUST1017,42.0,Male,South,Wireless Mouse,Electronics,5,838.95,0.2,3355.8,UPI,4.0
+ORD100434,2024-04-29,CUST1129,47.0,Female,South,Notebook Set,Stationery,3,418.95,0.15,1068.32,Credit Card,5.0
+ORD100435,2025-08-26,CUST1061,26.0,Male,East,Mechanical Keyboard,Electronics,2,2499.0,0.0,4998.0,Credit Card,5.0
+ORD100436,2024-02-27,CUST1171,38.0,Female,West,Mechanical Keyboard,Electronics,3,2374.05,0.0,7122.15,Net Banking,3.0
+ORD100437,2024-12-11,CUST1104,37.0,Female,South,USB-C Hub,Electronics,1,1424.05,0.05,1352.85,Credit Card,5.0
+ORD100438,2025-04-18,CUST1042,,Female,West,Notebook Set,Stationery,4,399.0,0.0,1596.0,Credit Card,5.0
+ORD100439,2024-04-26,CUST1025,36.0,Male,North,Running Shoes,Sports,4,3148.95,0.05,11966.01,Credit Card,3.0
+ORD100440,2024-05-06,CUST1039,29.0,Male,South,Wireless Mouse,Electronics,1,759.05,0.1,683.14,Cash,4.0
+ORD100441,2025-01-27,CUST1035,54.0,Male,North,Mechanical Keyboard,Electronics,2,2374.05,0.15,4035.88,Debit Card,4.0
+ORD100442,2025-10-02,CUST1131,59.0,Female,West,Notebook Set,Stationery,1,418.95,0.15,356.11,Debit Card,3.0
+ORD100443,2024-02-27,CUST1108,34.0,Male,West,Power Bank,Electronics,3,1678.95,0.05,4785.01,UPI,1.0
+ORD100444,2025-09-25,CUST1172,54.0,Female,East,Notebook Set,Stationery,1,379.05,0.1,341.15,Cash,3.0
+ORD100445,2025-05-27,CUST1179,65.0,Male,West,Wireless Mouse,Electronics,1,838.95,0.05,797.0,UPI,3.0
+ORD100446,2024-04-05,CUST1102,56.0,Other,East,Laptop Backpack,Accessories,2,1234.05,0.0,2468.1,Cash,4.0
+ORD100447,2025-09-29,CUST1098,45.0,Male,West,Notebook Set,Stationery,3,418.95,0.1,1131.16,Credit Card,3.0
+ORD100448,2024-04-27,CUST1012,58.0,Male,East,Notebook Set,Stationery,5,418.95,0.0,2094.75,Credit Card,5.0
+ORD100449,2025-07-13,CUST1019,52.0,Male,West,Cotton T-Shirt,Clothing,5,699.0,0.05,3320.25,Credit Card,5.0
+ORD100450,2025-08-23,CUST1101,64.0,Female,South,Denim Jeans,Clothing,4,1888.95,0.05,7178.01,Debit Card,2.0
+ORD100451,2025-05-02,CUST1044,65.0,Female,North,Water Bottle,Sports,1,599.0,0.1,539.1,UPI,5.0
+ORD100452,2024-08-24,CUST1187,35.0,Female,South,Wireless Mouse,Electronics,4,838.95,0.1,3020.22,Cash,5.0
+ORD100453,2024-09-28,CUST1049,31.0,Male,North,Cotton T-Shirt,Clothing,2,664.05,0.05,1261.7,Credit Card,5.0
+ORD100454,2024-07-07,CUST1189,52.0,Male,East,Notebook Set,Stationery,5,379.05,0.15,1610.96,UPI,1.0
+ORD100455,2025-12-04,CUST1017,61.0,Female,South,Laptop Backpack,Accessories,1,1363.95,0.0,1363.95,UPI,3.0
+ORD100456,2025-03-22,CUST1074,58.0,Male,East,Water Bottle,Sports,2,628.95,0.05,1195.01,Credit Card,5.0
+ORD100457,2025-08-03,CUST1057,24.0,Male,North,Wireless Mouse,Electronics,2,759.05,0.1,1366.29,Credit Card,5.0
+ORD100458,2024-09-03,CUST1055,58.0,Other,North,USB-C Hub,Electronics,1,1573.95,0.1,1416.56,Credit Card,5.0
+ORD100459,2024-03-16,CUST1047,30.0,Other,South,Cotton T-Shirt,Clothing,2,699.0,0.2,1118.4,Debit Card,5.0
+ORD100460,2024-06-02,CUST1012,35.0,Female,West,Water Bottle,Sports,1,599.0,0.0,599.0,Credit Card,2.0
+ORD100461,2025-10-17,CUST1062,54.0,Female,South,Wireless Mouse,Electronics,1,799.0,0.1,719.1,Net Banking,4.0
+ORD100462,2025-03-10,CUST1080,30.0,Male,South,Cotton T-Shirt,Clothing,3,699.0,0.1,1887.3,Credit Card,3.0
+ORD100463,2024-03-26,CUST1083,53.0,Male,East,Laptop Backpack,Accessories,4,1299.0,0.15,4416.6,Cash,3.0
+ORD100464,2025-11-27,CUST1008,48.0,Female,East,Wireless Mouse,Electronics,2,838.95,0.0,1677.9,UPI,5.0
+ORD100465,2024-10-11,CUST1149,19.0,Female,South,Wireless Mouse,Electronics,2,838.95,0.1,1510.11,Credit Card,3.0
+ORD100466,2024-08-07,CUST1081,33.0,Male,South,Travel Mug,Accessories,3,899.0,0.1,2427.3,UPI,4.0
+ORD100467,2024-03-09,CUST1118,26.0,Male,North,Wireless Mouse,Electronics,3,838.95,0.0,2516.85,Credit Card,5.0
+ORD100468,2024-02-16,CUST1198,26.0,Male,West,Office Chair,Furniture,3,7873.95,0.05,22440.76,Cash,3.0
+ORD100469,2024-04-03,CUST1200,55.0,Female,North,Smart Watch,Electronics,5,3999.0,0.05,18995.25,UPI,5.0
+ORD100470,2025-03-28,CUST1025,28.0,Female,South,Office Chair,Furniture,5,7873.95,0.1,35432.78,UPI,5.0
+ORD100471,2024-07-22,CUST1089,39.0,Female,North,Notebook Set,Stationery,5,418.95,0.15,1780.54,Cash,4.0
+ORD100472,2024-08-05,CUST1012,50.0,Male,North,USB-C Hub,Electronics,1,1573.95,0.1,1416.56,UPI,3.0
+ORD100473,2025-04-18,CUST1143,53.0,Other,West,Power Bank,Electronics,2,1599.0,0.1,2878.2,Debit Card,4.0
+ORD100474,2025-03-07,CUST1059,62.0,Female,North,Notebook Set,Stationery,4,418.95,0.05,1592.01,Credit Card,4.0
+ORD100475,2024-12-06,CUST1154,40.0,,North,Laptop Backpack,Accessories,1,1234.05,0.0,1234.05,Cash,4.0
+ORD100476,2025-07-04,CUST1109,62.0,Male,South,Office Chair,Furniture,2,7124.05,0.0,14248.1,UPI,3.0
+ORD100477,2025-09-03,CUST1026,62.0,,North,Water Bottle,Sports,2,599.0,0.05,1138.1,UPI,5.0
+ORD100478,2024-10-15,CUST1047,51.0,Male,North,Desk Lamp,Furniture,3,1139.05,0.05,3246.29,Credit Card,3.0
+ORD100479,2024-09-10,CUST1032,26.0,Female,West,Smart Watch,Electronics,3,3999.0,0.0,11997.0,Net Banking,5.0
+ORD100480,2024-12-22,CUST1010,41.0,Male,West,Running Shoes,Sports,1,2849.05,0.05,2706.6,Credit Card,1.0
+ORD100481,2024-01-23,CUST1016,25.0,Female,West,Desk Lamp,Furniture,3,1139.05,0.05,3246.29,UPI,4.0
+ORD100482,2025-06-05,CUST1199,24.0,Male,West,Smart Watch,Electronics,2,3799.05,0.0,7598.1,Debit Card,5.0
+ORD100483,2024-04-09,CUST1145,53.0,Male,East,Denim Jeans,Clothing,3,1799.0,0.05,5127.15,Net Banking,3.0
+ORD100484,2024-06-28,CUST1151,35.0,Male,North,Denim Jeans,Clothing,5,1799.0,0.0,8995.0,Cash,3.0
+ORD100485,2024-08-10,CUST1026,20.0,Male,West,Wireless Mouse,Electronics,3,838.95,0.15,2139.32,Net Banking,5.0
+ORD100486,2025-10-20,CUST1086,45.0,Male,West,Notebook Set,Stationery,2,399.0,0.15,678.3,UPI,5.0
+ORD100487,2025-03-17,CUST1135,23.0,Female,West,Smart Watch,Electronics,1,3799.05,0.1,3419.15,UPI,5.0
+ORD100488,2025-08-30,CUST1014,61.0,Female,South,Running Shoes,Sports,4,2849.05,0.0,11396.2,Debit Card,4.0
+ORD100489,2024-11-20,CUST1079,61.0,Female,North,Smart Watch,Electronics,3,3999.0,0.1,10797.3,Cash,3.0
+ORD100490,2025-05-30,CUST1117,38.0,Male,West,USB-C Hub,Electronics,2,1499.0,0.15,2548.3,UPI,5.0
+ORD100491,2024-01-16,CUST1007,45.0,Male,East,Desk Lamp,Furniture,4,1199.0,0.1,4316.4,UPI,5.0
+ORD100492,2024-12-01,CUST1137,57.0,Male,West,USB-C Hub,Electronics,4,1573.95,0.0,6295.8,Debit Card,4.0
+ORD100493,2024-09-14,CUST1115,18.0,Female,North,Running Shoes,Sports,5,2849.05,0.1,12820.72,UPI,5.0
+ORD100494,2025-05-11,CUST1176,53.0,Male,North,Smart Watch,Electronics,4,4198.95,0.15,14276.43,Credit Card,4.0
+ORD100495,2024-06-08,CUST1072,38.0,Male,North,Cotton T-Shirt,Clothing,2,733.95,0.1,1321.11,Credit Card,4.0
+ORD100496,2025-04-19,CUST1059,60.0,Female,West,Travel Mug,Accessories,2,854.05,0.1,1537.29,Credit Card,3.0
+ORD100497,2025-10-25,CUST1082,52.0,Male,North,Notebook Set,Stationery,3,379.05,0.05,1080.29,Debit Card,4.0
+ORD100498,2025-11-20,CUST1116,30.0,Male,North,USB-C Hub,Electronics,3,1499.0,0.05,4272.15,Credit Card,4.0
+ORD100499,2025-11-05,CUST1167,27.0,,West,USB-C Hub,Electronics,3,1499.0,0.0,4497.0,Debit Card,1.0
+ORD100500,2025-01-14,CUST1146,61.0,Female,North,Mechanical Keyboard,Electronics,4,2623.95,0.1,9446.22,Credit Card,4.0
+ORD100501,2025-06-28,CUST1187,64.0,Female,West,Smart Watch,Electronics,4,3999.0,0.0,15996.0,,5.0
+ORD100502,2025-11-21,CUST1103,27.0,Female,South,Notebook Set,Stationery,5,399.0,0.05,1895.25,Debit Card,5.0
+ORD100503,2025-03-02,CUST1017,63.0,Male,West,Power Bank,Electronics,3,1519.05,0.0,4557.15,UPI,4.0
+ORD100504,2025-09-04,CUST1014,30.0,Other,East,USB-C Hub,Electronics,1,1424.05,0.05,1352.85,UPI,5.0
+ORD100505,2024-09-24,CUST1159,54.0,Female,West,Office Chair,Furniture,5,7499.0,0.0,37495.0,UPI,1.0
+ORD100506,2025-07-30,CUST1152,55.0,Male,West,Laptop Backpack,Accessories,1,1234.05,0.1,1110.64,UPI,4.0
+ORD100507,2025-02-20,CUST1108,41.0,Female,North,Travel Mug,Accessories,4,899.0,0.1,3236.4,Credit Card,5.0
+ORD100508,2024-06-16,CUST1188,19.0,Male,North,Travel Mug,Accessories,5,854.05,0.0,4270.25,Cash,4.0
+ORD100509,2024-02-12,CUST1045,39.0,Female,South,Smart Watch,Electronics,5,3799.05,0.0,18995.25,Debit Card,4.0
+ORD100510,2025-07-09,CUST1098,34.0,Female,East,Denim Jeans,Clothing,2,1709.05,0.0,3418.1,Debit Card,3.0
+ORD100511,2024-10-11,CUST1131,53.0,Male,West,Mechanical Keyboard,Electronics,4,2374.05,0.15,8071.77,Credit Card,5.0
+ORD100512,2025-01-31,CUST1037,31.0,Other,South,USB-C Hub,Electronics,4,1499.0,0.05,5696.2,,4.0
+ORD100513,2024-01-12,CUST1171,27.0,Female,East,Mechanical Keyboard,Electronics,5,2623.95,0.05,12463.76,Credit Card,5.0
+ORD100514,2025-08-29,CUST1168,52.0,Female,North,Denim Jeans,Clothing,4,1709.05,0.0,6836.2,UPI,4.0
+ORD100515,2024-10-28,CUST1183,42.0,Male,West,Running Shoes,Sports,5,2999.0,0.1,13495.5,UPI,5.0
+ORD100516,2024-09-09,CUST1108,20.0,Male,West,Running Shoes,Sports,2,2999.0,0.15,5098.3,Credit Card,5.0
+ORD100517,2025-05-13,CUST1039,,Male,South,Desk Lamp,Furniture,5,1139.05,0.15,4840.96,Net Banking,5.0
+ORD100518,2024-02-04,CUST1015,55.0,Female,South,Power Bank,Electronics,4,1678.95,0.1,6044.22,UPI,4.0
+ORD100519,2025-12-27,CUST1120,34.0,Male,North,Smart Watch,Electronics,4,3799.05,0.0,15196.2,UPI,4.0
+ORD100520,2024-03-30,CUST1004,29.0,Female,East,Denim Jeans,Clothing,5,1799.0,0.0,8995.0,Debit Card,5.0
+ORD100521,2025-08-27,CUST1093,41.0,Female,South,Bluetooth Speaker,Electronics,5,2098.95,0.0,10494.75,UPI,4.0
+ORD100522,2025-08-24,CUST1153,46.0,Male,North,Power Bank,Electronics,5,1599.0,0.0,7995.0,Cash,4.0
+ORD100523,2025-02-21,CUST1141,60.0,Female,South,Desk Lamp,Furniture,3,1139.05,0.0,3417.15,Debit Card,2.0
+ORD100524,2024-04-24,CUST1161,42.0,Male,South,Bluetooth Speaker,Electronics,4,2098.95,0.0,8395.8,Net Banking,5.0
+ORD100525,2025-09-08,CUST1016,53.0,Female,South,Smart Watch,Electronics,4,3999.0,0.05,15196.2,Credit Card,2.0
+ORD100526,2024-07-14,CUST1170,43.0,Male,East,Wireless Mouse,Electronics,3,799.0,0.15,2037.45,Debit Card,4.0
+ORD100527,2025-05-15,CUST1108,55.0,Male,North,Notebook Set,Stationery,5,399.0,0.1,1795.5,Credit Card,4.0
+ORD100528,2025-09-17,CUST1126,18.0,Male,West,Mechanical Keyboard,Electronics,2,2374.05,0.15,4035.88,Debit Card,4.0
+ORD100529,2025-05-07,CUST1194,37.0,Male,East,Mechanical Keyboard,Electronics,5,2623.95,0.1,11807.78,Credit Card,5.0
+ORD100530,2024-03-15,CUST1055,45.0,Female,South,Notebook Set,Stationery,5,379.05,0.0,1895.25,UPI,2.0
+ORD100531,2025-02-16,CUST1170,33.0,Female,North,Notebook Set,Stationery,3,379.05,,1023.44,Credit Card,4.0
+ORD100532,2025-01-10,CUST1034,64.0,Female,West,Running Shoes,Sports,4,2849.05,0.0,11396.2,Credit Card,5.0
+ORD100533,2025-02-23,CUST1158,34.0,Male,West,Power Bank,Electronics,5,1678.95,0.1,7555.28,Cash,5.0
+ORD100534,2025-12-29,CUST1013,57.0,Male,South,Bluetooth Speaker,Electronics,4,1899.05,0.05,7216.39,Debit Card,3.0
+ORD100535,2024-10-03,CUST1141,45.0,Male,South,Notebook Set,Stationery,1,379.05,0.2,303.24,Debit Card,5.0
+ORD100536,2025-11-06,CUST1018,29.0,Female,North,Office Chair,Furniture,4,7124.05,0.0,28496.2,UPI,5.0
+ORD100537,2025-01-28,CUST1160,44.0,Female,East,Water Bottle,Sports,2,569.05,0.0,1138.1,Debit Card,5.0
+ORD100538,2025-04-01,CUST1096,59.0,Male,North,Notebook Set,Stationery,2,399.0,0.15,678.3,Credit Card,4.0
+ORD100539,2024-07-10,CUST1123,64.0,Male,South,USB-C Hub,Electronics,5,1424.05,0.0,7120.25,Cash,4.0
+ORD100540,2025-11-19,CUST1039,47.0,Female,East,USB-C Hub,Electronics,4,1499.0,0.1,5396.4,Net Banking,5.0
+ORD100541,2024-04-08,CUST1046,58.0,Female,East,USB-C Hub,Electronics,5,1424.05,0.1,6408.22,UPI,5.0
+ORD100542,2025-07-01,CUST1029,51.0,Female,South,Running Shoes,Sports,3,3148.95,0.15,8029.82,Cash,4.0
+ORD100543,2024-04-05,CUST1190,54.0,Female,South,Travel Mug,Accessories,2,899.0,0.2,1438.4,UPI,3.0
+ORD100544,2025-10-25,CUST1062,23.0,Male,East,Denim Jeans,Clothing,5,1799.0,0.2,7196.0,Credit Card,4.0
+ORD100545,2025-10-24,CUST1185,24.0,Male,North,Office Chair,Furniture,3,7499.0,0.0,22497.0,Credit Card,4.0
+ORD100546,2024-07-08,CUST1016,49.0,Female,North,Cotton T-Shirt,Clothing,5,699.0,0.15,2970.75,UPI,3.0
+ORD100547,2024-02-06,CUST1184,,Female,West,Travel Mug,Accessories,4,943.95,0.1,3398.22,Debit Card,3.0
+ORD100548,2025-01-03,CUST1121,42.0,Male,North,Bluetooth Speaker,Electronics,4,1899.05,0.1,6836.58,UPI,5.0
+ORD100549,2025-11-25,CUST1010,50.0,Female,East,Office Chair,Furniture,4,7499.0,0.0,29996.0,UPI,2.0
+ORD100550,2025-06-08,CUST1158,24.0,Female,West,Desk Lamp,Furniture,4,1258.95,0.1,4532.22,Credit Card,5.0
+ORD100551,2024-10-05,CUST1153,29.0,Female,South,Bluetooth Speaker,Electronics,1,1999.0,0.2,1599.2,Debit Card,3.0
+ORD100552,2024-08-04,CUST1103,33.0,Female,South,Office Chair,Furniture,3,7124.05,0.15,18166.33,Net Banking,4.0
+ORD100553,2024-09-29,CUST1084,33.0,Male,East,Water Bottle,Sports,3,599.0,0.05,1707.15,Debit Card,2.0
+ORD100554,2024-03-02,CUST1133,60.0,Female,West,Power Bank,Electronics,4,1678.95,0.0,6715.8,Debit Card,3.0
+ORD100555,2025-08-18,CUST1065,53.0,Female,West,Office Chair,Furniture,1,7124.05,0.05,6767.85,Credit Card,5.0
+ORD100556,2025-12-29,CUST1177,30.0,Female,East,Office Chair,Furniture,4,7873.95,0.15,26771.43,UPI,5.0
+ORD100557,2024-12-07,CUST1003,24.0,Female,North,Travel Mug,Accessories,1,854.05,0.1,768.64,UPI,3.0
+ORD100558,2025-01-31,CUST1173,53.0,Female,East,Office Chair,Furniture,4,7124.05,0.05,27071.39,Credit Card,4.0
+ORD100559,2025-11-29,CUST1142,64.0,Male,South,Mechanical Keyboard,Electronics,2,2374.05,0.0,4748.1,Debit Card,4.0
+ORD100560,2024-01-19,CUST1120,26.0,Female,South,Travel Mug,Accessories,2,899.0,0.05,1708.1,Credit Card,5.0
+ORD100561,2024-06-25,CUST1158,49.0,Female,North,Wireless Mouse,Electronics,5,838.95,0.05,3985.01,Debit Card,5.0
+ORD100562,2025-09-03,CUST1068,28.0,Female,North,Smart Watch,Electronics,4,4198.95,0.15,14276.43,Credit Card,4.0
+ORD100563,2025-01-30,CUST1146,25.0,Female,West,Desk Lamp,Furniture,3,1258.95,0.1,3399.17,UPI,5.0
+ORD100564,2025-03-20,CUST1190,50.0,Female,South,Power Bank,Electronics,5,1519.05,0.05,7215.49,UPI,5.0
+ORD100565,2024-08-20,CUST1037,40.0,Male,South,Desk Lamp,Furniture,2,1199.0,0.05,2278.1,Cash,1.0
+ORD100566,2024-03-16,CUST1153,42.0,Female,South,Mechanical Keyboard,Electronics,4,2374.05,0.0,9496.2,Debit Card,4.0
+ORD100567,2024-09-21,CUST1176,25.0,Male,West,Notebook Set,Stationery,5,418.95,0.2,1675.8,Cash,5.0
+ORD100568,2025-03-30,CUST1193,62.0,Male,East,Denim Jeans,Clothing,4,1799.0,0.05,6836.2,UPI,5.0
+ORD100569,2025-12-18,CUST1181,39.0,Female,South,Power Bank,Electronics,2,1599.0,0.05,3038.1,Net Banking,4.0
+ORD100570,2025-01-18,CUST1073,21.0,Female,North,Smart Watch,Electronics,5,3999.0,0.05,18995.25,UPI,4.0
+ORD100571,2025-07-17,CUST1143,57.0,Male,South,Bluetooth Speaker,Electronics,2,2098.95,0.1,3778.11,UPI,4.0
+ORD100572,2025-05-20,CUST1049,20.0,Male,West,Denim Jeans,Clothing,1,1799.0,0.1,1619.1,Net Banking,4.0
+ORD100573,2025-01-01,CUST1121,46.0,Female,East,Smart Watch,Electronics,2,3999.0,0.1,7198.2,UPI,5.0
+ORD100574,2024-05-23,CUST1088,58.0,Male,South,Water Bottle,Sports,4,569.05,0.0,2276.2,Debit Card,4.0
+ORD100575,2024-03-09,CUST1196,46.0,Male,East,Water Bottle,Sports,3,569.05,0.05,1621.79,UPI,
+ORD100576,2024-04-08,CUST1140,51.0,Male,South,Laptop Backpack,Accessories,2,1299.0,0.0,2598.0,Credit Card,5.0
+ORD100577,2025-01-30,CUST1187,51.0,Male,West,Notebook Set,Stationery,3,399.0,0.1,1077.3,Net Banking,3.0
+ORD100578,2024-01-25,CUST1037,45.0,Male,South,Travel Mug,Accessories,1,854.05,0.0,854.05,UPI,4.0
+ORD100579,2025-04-13,CUST1061,30.0,Male,North,Cotton T-Shirt,Clothing,5,664.05,0.1,2988.22,Debit Card,4.0
+ORD100580,2025-04-28,CUST1171,32.0,Male,North,Water Bottle,Sports,5,569.05,0.15,2418.46,UPI,5.0
+ORD100581,2025-07-18,CUST1124,40.0,Female,South,Bluetooth Speaker,Electronics,3,2098.95,0.15,5352.32,Debit Card,3.0
+ORD100582,2024-05-30,CUST1198,61.0,Female,West,Wireless Mouse,Electronics,5,838.95,0.05,3985.01,UPI,4.0
+ORD100583,2024-05-23,CUST1039,43.0,Female,South,USB-C Hub,Electronics,2,1424.05,0.05,2705.7,UPI,5.0
+ORD100584,2025-07-22,CUST1184,21.0,Male,West,Laptop Backpack,Accessories,3,1299.0,0.0,3897.0,UPI,4.0
+ORD100585,2024-02-08,CUST1063,43.0,Male,West,USB-C Hub,Electronics,4,1424.05,0.1,5126.58,UPI,5.0
+ORD100586,2024-04-18,CUST1046,57.0,Female,South,Desk Lamp,Furniture,2,1258.95,0.15,2140.22,Net Banking,5.0
+ORD100587,2025-11-23,CUST1088,26.0,Male,North,Notebook Set,Stationery,2,399.0,0.0,798.0,Credit Card,2.0
+ORD100588,2024-02-11,CUST1011,22.0,Male,North,Office Chair,Furniture,2,7873.95,0.05,14960.5,UPI,3.0
+ORD100589,2024-07-04,CUST1062,49.0,Female,East,Cotton T-Shirt,Clothing,4,699.0,0.15,2376.6,Credit Card,5.0
+ORD100590,2025-02-01,CUST1077,37.0,Female,North,Desk Lamp,Furniture,1,1258.95,0.15,1070.11,UPI,5.0
+ORD100591,2024-08-10,CUST1153,28.0,Male,South,Smart Watch,Electronics,5,3999.0,0.0,19995.0,Debit Card,2.0
+ORD100592,2025-09-25,CUST1199,32.0,Male,South,Power Bank,Electronics,3,1599.0,0.1,4317.3,Net Banking,1.0
+ORD100593,2024-05-12,CUST1052,49.0,Female,East,Desk Lamp,Furniture,1,1199.0,0.0,1199.0,Credit Card,3.0
+ORD100594,2024-06-11,CUST1004,45.0,Male,North,Running Shoes,Sports,3,2999.0,0.0,8997.0,Cash,5.0
+ORD100595,2024-08-02,CUST1059,39.0,Female,South,Notebook Set,Stationery,5,418.95,0.15,1780.54,Credit Card,3.0
+ORD100596,2024-08-22,CUST1072,58.0,Female,South,Water Bottle,Sports,4,628.95,0.15,2138.43,UPI,4.0
+ORD100597,2025-10-19,CUST1148,34.0,Other,East,Wireless Mouse,Electronics,2,799.0,0.1,1438.2,Debit Card,5.0
+ORD100598,2025-08-10,CUST1093,43.0,Male,West,Cotton T-Shirt,Clothing,2,699.0,0.0,1398.0,Credit Card,1.0
+ORD100599,2024-01-09,CUST1063,61.0,Female,North,Power Bank,Electronics,4,1678.95,0.15,5708.43,Debit Card,4.0
+ORD100600,2024-03-14,CUST1054,24.0,Female,West,USB-C Hub,Electronics,1,1499.0,0.05,1424.05,Cash,3.0
+ORD100601,2025-05-06,CUST1117,59.0,Male,East,Laptop Backpack,Accessories,1,1299.0,0.05,1234.05,Credit Card,5.0
+ORD100602,2024-09-09,CUST1110,43.0,Male,East,Water Bottle,Sports,3,599.0,0.05,1707.15,Net Banking,3.0
+ORD100603,2024-08-17,CUST1074,42.0,Female,East,Bluetooth Speaker,Electronics,4,1899.05,0.0,7596.2,Debit Card,5.0
+ORD100604,2025-06-02,CUST1107,27.0,Male,South,Water Bottle,Sports,1,599.0,0.1,539.1,Credit Card,5.0
+ORD100605,2024-06-22,CUST1057,62.0,Male,North,Laptop Backpack,Accessories,4,1234.05,0.1,4442.58,Debit Card,3.0
+ORD100606,2025-10-14,CUST1169,36.0,Male,East,Laptop Backpack,Accessories,5,1299.0,,6495.0,UPI,1.0
+ORD100607,2024-06-16,CUST1003,28.0,Female,South,Running Shoes,Sports,2,3148.95,0.0,6297.9,Net Banking,4.0
+ORD100608,2024-06-18,CUST1120,30.0,Female,East,Travel Mug,Accessories,2,854.05,0.0,1708.1,Debit Card,3.0
+ORD100609,2025-01-27,CUST1006,25.0,Female,South,Water Bottle,Sports,2,569.05,0.0,1138.1,UPI,5.0
+ORD100610,2025-09-25,CUST1005,57.0,Male,West,Desk Lamp,Furniture,4,1199.0,0.1,4316.4,UPI,5.0
+ORD100611,2024-07-12,CUST1005,21.0,Male,East,Water Bottle,Sports,4,599.0,0.15,2036.6,Debit Card,4.0
+ORD100612,2025-05-31,CUST1054,64.0,Female,North,Notebook Set,Stationery,3,379.05,0.0,1137.15,UPI,
+ORD100613,2024-01-29,CUST1047,48.0,Female,South,Notebook Set,Stationery,2,418.95,0.0,837.9,UPI,4.0
+ORD100614,2024-06-13,CUST1177,45.0,Male,West,Office Chair,Furniture,3,7873.95,0.1,21259.66,Credit Card,5.0
+ORD100615,2025-02-25,CUST1009,28.0,Female,West,Running Shoes,Sports,2,2999.0,0.15,5098.3,UPI,4.0
+ORD100616,2024-12-04,CUST1099,60.0,Other,South,Denim Jeans,Clothing,3,1888.95,0.05,5383.51,Credit Card,3.0
+ORD100617,2025-10-09,CUST1020,18.0,Female,West,Denim Jeans,Clothing,3,1888.95,0.05,5383.51,UPI,3.0
+ORD100618,2025-05-10,CUST1122,64.0,Female,South,Office Chair,Furniture,5,7499.0,0.1,33745.5,UPI,4.0
+ORD100619,2024-12-30,CUST1061,55.0,Female,South,Smart Watch,Electronics,3,4198.95,0.0,12596.85,Debit Card,4.0
+ORD100620,2024-12-07,CUST1123,41.0,Male,West,Denim Jeans,Clothing,4,1799.0,0.0,7196.0,Credit Card,4.0
+ORD100621,2025-05-14,CUST1163,64.0,Female,West,Notebook Set,Stationery,3,379.05,0.1,1023.44,UPI,2.0
+ORD100622,2025-10-18,CUST1178,48.0,Other,East,Office Chair,Furniture,2,7499.0,0.1,13498.2,UPI,5.0
+ORD100623,2025-05-25,CUST1082,58.0,Male,West,Mechanical Keyboard,Electronics,3,2374.05,0.1,6409.94,Credit Card,3.0
+ORD100624,2024-11-22,CUST1062,63.0,Female,North,Travel Mug,Accessories,1,854.05,0.1,768.64,UPI,3.0
+ORD100625,2024-08-04,CUST1145,43.0,Female,West,Travel Mug,Accessories,2,943.95,0.1,1699.11,UPI,4.0
+ORD100626,2024-10-27,CUST1003,22.0,Female,South,Desk Lamp,Furniture,1,1258.95,0.0,1258.95,UPI,3.0
+ORD100627,2024-05-11,CUST1160,37.0,Female,North,Water Bottle,Sports,2,628.95,0.05,1195.01,Cash,4.0
+ORD100628,2024-03-10,CUST1013,58.0,Female,North,Desk Lamp,Furniture,4,1199.0,0.0,4796.0,Debit Card,4.0
+ORD100629,2024-09-08,CUST1120,28.0,Female,South,Office Chair,Furniture,4,7873.95,0.0,31495.8,Debit Card,4.0
+ORD100630,2025-02-18,CUST1125,50.0,Male,South,Power Bank,Electronics,4,1519.05,0.1,5468.58,Debit Card,4.0
+ORD100631,2025-03-20,CUST1089,55.0,Female,South,Wireless Mouse,Electronics,1,838.95,0.15,713.11,Debit Card,3.0
+ORD100632,2024-06-30,CUST1073,44.0,Male,North,Water Bottle,Sports,5,628.95,0.2,2515.8,Credit Card,3.0
+ORD100633,2024-06-15,CUST1068,51.0,Male,South,Mechanical Keyboard,Electronics,2,2499.0,0.1,4498.2,Debit Card,5.0
+ORD100634,2024-03-31,CUST1142,,Male,East,Mechanical Keyboard,Electronics,4,2499.0,0.0,9996.0,UPI,4.0
+ORD100635,2025-12-14,CUST1101,49.0,Male,South,Desk Lamp,Furniture,2,1139.05,0.0,2278.1,Debit Card,4.0
+ORD100636,2025-06-14,CUST1098,38.0,Male,South,USB-C Hub,Electronics,1,1499.0,,1274.15,Debit Card,1.0
+ORD100637,2024-02-08,CUST1011,63.0,Female,East,Water Bottle,Sports,5,628.95,0.1,2830.28,Credit Card,4.0
+ORD100638,2024-05-05,CUST1105,22.0,Female,West,Cotton T-Shirt,Clothing,1,699.0,0.1,629.1,Credit Card,4.0
+ORD100639,2025-03-26,CUST1184,23.0,Female,West,Mechanical Keyboard,Electronics,2,2374.05,0.1,4273.29,UPI,4.0
+ORD100640,2024-06-21,CUST1067,55.0,Male,South,Travel Mug,Accessories,5,943.95,0.1,4247.78,Debit Card,5.0
+ORD100641,2025-10-14,CUST1123,39.0,Female,East,Wireless Mouse,Electronics,5,759.05,0.15,3225.96,Debit Card,3.0
+ORD100642,2024-08-07,CUST1029,35.0,Female,North,Travel Mug,Accessories,1,899.0,0.0,899.0,Cash,3.0
+ORD100643,2025-09-29,CUST1137,31.0,Female,North,Running Shoes,Sports,4,2999.0,0.1,10796.4,UPI,5.0
+ORD100644,2024-02-27,CUST1195,27.0,Male,South,Smart Watch,Electronics,2,3799.05,0.15,6458.38,Debit Card,5.0
+ORD100645,2025-10-21,CUST1153,63.0,Male,West,Power Bank,Electronics,3,1678.95,0.0,5036.85,Credit Card,3.0
+ORD100646,2025-04-20,CUST1076,30.0,,South,USB-C Hub,Electronics,3,1499.0,0.1,4047.3,Cash,4.0
+ORD100647,2025-03-31,CUST1170,48.0,Male,North,Running Shoes,Sports,1,2999.0,0.05,2849.05,Credit Card,3.0
+ORD100648,2024-12-26,CUST1009,47.0,Male,North,USB-C Hub,Electronics,2,1573.95,0.2,2518.32,Credit Card,2.0
+ORD100649,2024-01-01,CUST1040,20.0,Female,West,Travel Mug,Accessories,2,899.0,0.0,1798.0,Credit Card,4.0
+ORD100650,2025-01-21,CUST1025,47.0,Male,East,Notebook Set,Stationery,1,379.05,0.1,341.15,Debit Card,3.0
+ORD100651,2024-12-13,CUST1005,23.0,Male,South,Wireless Mouse,Electronics,2,799.0,0.0,1598.0,Net Banking,5.0
+ORD100652,2024-07-08,CUST1139,46.0,Male,East,Travel Mug,Accessories,4,899.0,0.1,3236.4,UPI,4.0
+ORD100653,2025-05-19,CUST1187,25.0,Male,South,Notebook Set,Stationery,1,418.95,0.0,418.95,UPI,3.0
+ORD100654,2024-07-09,CUST1124,61.0,Male,East,Desk Lamp,Furniture,4,1139.05,0.0,4556.2,Net Banking,1.0
+ORD100655,2025-05-22,CUST1038,62.0,Male,North,Laptop Backpack,Accessories,2,1363.95,0.05,2591.5,Credit Card,5.0
+ORD100656,2025-01-03,CUST1072,60.0,Male,West,Water Bottle,Sports,1,599.0,0.15,509.15,Debit Card,3.0
+ORD100657,2025-02-12,CUST1133,61.0,Female,South,Travel Mug,Accessories,2,899.0,0.0,1798.0,Credit Card,4.0
+ORD100658,2024-04-26,CUST1176,50.0,Other,East,Notebook Set,Stationery,1,418.95,0.0,418.95,UPI,4.0
+ORD100659,2024-05-13,CUST1090,34.0,Male,North,Office Chair,Furniture,2,7873.95,0.1,14173.11,Debit Card,4.0
+ORD100660,2024-02-27,CUST1146,65.0,Male,South,Bluetooth Speaker,Electronics,4,2098.95,0.05,7976.01,Debit Card,4.0
+ORD100661,2025-07-09,CUST1198,28.0,Female,South,Cotton T-Shirt,Clothing,4,664.05,0.15,2257.77,UPI,2.0
+ORD100662,2025-11-15,CUST1037,30.0,Male,East,Running Shoes,Sports,2,2999.0,0.0,5998.0,UPI,3.0
+ORD100663,2025-11-02,CUST1060,28.0,Male,North,Water Bottle,Sports,1,628.95,0.1,566.06,Cash,3.0
+ORD100664,2024-06-21,CUST1176,48.0,Female,West,Cotton T-Shirt,Clothing,3,699.0,0.0,2097.0,UPI,4.0
+ORD100665,2024-05-28,CUST1028,45.0,Male,North,Laptop Backpack,Accessories,4,1234.05,0.0,4936.2,Cash,5.0
+ORD100666,2024-03-20,CUST1197,61.0,Female,East,Power Bank,Electronics,4,1519.05,0.1,5468.58,UPI,3.0
+ORD100667,2024-07-31,CUST1081,23.0,Female,West,Power Bank,Electronics,3,1519.05,0.1,4101.43,Credit Card,1.0
+ORD100668,2024-07-21,CUST1114,58.0,Male,East,Bluetooth Speaker,Electronics,2,1899.05,0.1,3418.29,Net Banking,4.0
+ORD100669,2024-08-16,CUST1040,33.0,Male,East,Cotton T-Shirt,Clothing,1,699.0,0.05,664.05,Debit Card,4.0
+ORD100670,2025-11-06,CUST1045,21.0,Female,East,Cotton T-Shirt,Clothing,2,664.05,0.05,1261.7,Credit Card,5.0
+ORD100671,2024-08-14,CUST1062,52.0,Male,South,Running Shoes,Sports,5,2849.05,0.05,13532.99,Debit Card,4.0
+ORD100672,2025-10-20,CUST1093,65.0,Male,West,Denim Jeans,Clothing,4,1888.95,0.2,6044.64,UPI,4.0
+ORD100673,2025-06-15,CUST1115,43.0,Female,South,Bluetooth Speaker,Electronics,5,1899.05,0.0,9495.25,UPI,4.0
+ORD100674,2025-03-16,CUST1186,29.0,Female,East,Water Bottle,Sports,4,628.95,0.0,2515.8,Net Banking,5.0
+ORD100675,2025-02-05,CUST1067,28.0,Male,East,Laptop Backpack,Accessories,4,1234.05,0.05,4689.39,Debit Card,5.0
+ORD100676,2024-02-16,CUST1056,54.0,Female,South,Bluetooth Speaker,Electronics,5,1899.05,0.1,8545.72,Debit Card,4.0
+ORD100677,2024-08-20,CUST1040,42.0,Male,South,Desk Lamp,Furniture,5,1258.95,0.0,6294.75,Credit Card,3.0
+ORD100678,2024-10-31,CUST1098,35.0,Female,South,Wireless Mouse,Electronics,2,759.05,0.15,1290.38,UPI,3.0
+ORD100679,2025-06-09,CUST1040,36.0,Female,West,Desk Lamp,Furniture,5,1199.0,0.0,5995.0,UPI,4.0
+ORD100680,2024-05-22,CUST1091,40.0,Female,West,Denim Jeans,Clothing,2,1799.0,0.15,3058.3,Credit Card,5.0
+ORD100681,2025-02-18,CUST1033,55.0,Female,East,Wireless Mouse,Electronics,2,759.05,0.0,1518.1,Debit Card,4.0
+ORD100682,2025-05-27,CUST1006,35.0,Other,East,Laptop Backpack,Accessories,2,1299.0,0.1,2338.2,Credit Card,2.0
+ORD100683,2025-01-07,CUST1147,43.0,Male,West,Power Bank,Electronics,4,1678.95,0.15,5708.43,Cash,5.0
+ORD100684,2025-07-19,CUST1080,23.0,Female,North,Running Shoes,Sports,4,2849.05,0.0,11396.2,UPI,5.0
+ORD100685,2024-09-15,CUST1168,21.0,Male,North,Running Shoes,Sports,5,2849.05,0.2,11396.2,Credit Card,3.0
+ORD100686,2025-10-17,CUST1092,61.0,Male,East,Notebook Set,Stationery,4,418.95,0.05,1592.01,UPI,5.0
+ORD100687,2025-04-15,CUST1097,46.0,Male,West,Laptop Backpack,Accessories,5,1363.95,0.15,5796.79,Credit Card,4.0
+ORD100688,2024-01-12,CUST1059,51.0,Female,West,USB-C Hub,Electronics,4,1573.95,0.1,5666.22,UPI,5.0
+ORD100689,2024-11-25,CUST1059,34.0,Female,South,Power Bank,Electronics,1,1519.05,0.05,1443.1,Net Banking,5.0
+ORD100690,2024-12-23,CUST1048,60.0,Male,North,Laptop Backpack,Accessories,1,1363.95,0.0,1363.95,UPI,4.0
+ORD100691,2025-02-11,CUST1169,60.0,Male,South,Desk Lamp,Furniture,5,1258.95,0.05,5980.01,Net Banking,5.0
+ORD100692,2025-10-29,CUST1013,33.0,Female,North,Denim Jeans,Clothing,4,1799.0,0.0,7196.0,Credit Card,5.0
+ORD100693,2025-01-07,CUST1107,19.0,Male,South,Travel Mug,Accessories,4,899.0,0.0,3596.0,Net Banking,4.0
+ORD100694,2024-01-08,CUST1045,51.0,Male,West,Mechanical Keyboard,Electronics,2,2374.05,0.0,4748.1,Credit Card,4.0
+ORD100695,2024-05-01,CUST1089,25.0,Female,North,Running Shoes,Sports,3,2999.0,0.05,8547.15,Net Banking,5.0
+ORD100696,2024-12-13,CUST1181,30.0,Female,West,Smart Watch,Electronics,5,3999.0,0.1,17995.5,UPI,3.0
+ORD100697,2025-11-06,CUST1170,59.0,Other,South,Denim Jeans,Clothing,3,1888.95,0.0,5666.85,Debit Card,4.0
+ORD100698,2024-03-30,CUST1100,25.0,Male,East,Travel Mug,Accessories,3,943.95,0.0,2831.85,Net Banking,5.0
+ORD100699,2025-10-09,CUST1191,47.0,Male,North,Office Chair,Furniture,5,7499.0,0.1,33745.5,UPI,5.0
+ORD100700,2025-11-28,CUST1155,49.0,Female,South,Denim Jeans,Clothing,4,1799.0,0.0,7196.0,UPI,4.0
+ORD100701,2024-11-11,CUST1166,53.0,Female,North,Denim Jeans,Clothing,5,1799.0,0.0,8995.0,Credit Card,3.0
+ORD100702,2024-06-26,CUST1188,64.0,Female,West,Power Bank,Electronics,3,1519.05,0.0,4557.15,Net Banking,4.0
+ORD100703,2025-06-23,CUST1007,47.0,Female,West,Notebook Set,Stationery,4,379.05,0.15,1288.77,Credit Card,3.0
+ORD100704,2024-02-10,CUST1133,18.0,Male,South,Cotton T-Shirt,Clothing,1,664.05,0.15,564.44,Credit Card,3.0
+ORD100705,2025-12-04,CUST1045,60.0,Female,North,Denim Jeans,Clothing,5,1799.0,0.05,8545.25,UPI,5.0
+ORD100706,2025-05-16,CUST1058,56.0,Male,West,Notebook Set,Stationery,5,399.0,0.1,1795.5,UPI,3.0
+ORD100707,2024-05-24,CUST1031,34.0,Male,South,Running Shoes,Sports,4,2849.05,0.05,10826.39,Cash,4.0
+ORD100708,2024-07-19,CUST1023,37.0,Female,North,Mechanical Keyboard,Electronics,1,2374.05,0.1,2136.65,UPI,
+ORD100709,2025-12-24,CUST1170,41.0,Male,East,Mechanical Keyboard,Electronics,1,2499.0,0.1,2249.1,Debit Card,5.0
+ORD100710,2025-04-05,CUST1138,39.0,Male,West,Denim Jeans,Clothing,4,1888.95,0.1,6800.22,Net Banking,4.0
+ORD100711,2025-07-11,CUST1160,46.0,Female,North,Office Chair,,2,7124.05,0.0,14248.1,UPI,2.0
+ORD100712,2025-06-30,CUST1107,39.0,Male,North,Wireless Mouse,Electronics,5,799.0,0.0,3995.0,Debit Card,2.0
+ORD100713,2024-09-09,CUST1181,61.0,Female,West,Running Shoes,Sports,5,2999.0,0.05,14245.25,UPI,4.0
+ORD100714,2025-01-24,CUST1158,26.0,Male,North,Notebook Set,Stationery,3,418.95,0.15,1068.32,Debit Card,4.0
+ORD100715,2025-08-16,CUST1039,54.0,Female,North,Running Shoes,Sports,4,2999.0,0.1,10796.4,UPI,4.0
+ORD100716,2024-09-12,CUST1159,27.0,Male,East,Office Chair,Furniture,3,7499.0,0.15,19122.45,Debit Card,4.0
+ORD100717,2025-12-09,CUST1082,53.0,Male,West,Bluetooth Speaker,Electronics,3,1899.05,0.2,4557.72,UPI,2.0
+ORD100718,2025-03-25,CUST1100,54.0,Other,South,Desk Lamp,Furniture,1,1139.05,0.0,1139.05,Credit Card,4.0
+ORD100719,2024-01-10,CUST1002,45.0,Female,West,Office Chair,Furniture,5,7873.95,0.1,35432.78,Credit Card,4.0
+ORD100720,2024-08-29,CUST1077,45.0,Female,East,Notebook Set,Stationery,3,418.95,0.1,1131.16,UPI,3.0
+ORD100721,2024-09-07,CUST1012,59.0,Male,North,Power Bank,Electronics,1,1599.0,0.2,1279.2,Debit Card,2.0
+ORD100722,2024-01-05,CUST1039,60.0,Female,West,Office Chair,Furniture,4,7124.05,0.2,22796.96,UPI,2.0
+ORD100723,2024-04-28,CUST1194,38.0,Female,South,Notebook Set,Stationery,3,418.95,0.1,1131.16,Debit Card,2.0
+ORD100724,2025-01-08,CUST1013,41.0,Female,South,Water Bottle,Sports,5,628.95,0.0,3144.75,UPI,4.0
+ORD100725,2024-03-05,CUST1046,59.0,Female,East,USB-C Hub,Electronics,3,1573.95,0.1,4249.67,Debit Card,3.0
+ORD100726,2024-05-25,CUST1155,57.0,Male,South,Notebook Set,Stationery,4,399.0,0.0,1596.0,UPI,3.0
+ORD100727,2024-08-11,CUST1113,19.0,Male,North,Office Chair,Furniture,3,7124.05,0.1,19234.94,Credit Card,3.0
+ORD100728,2024-08-26,CUST1017,25.0,Female,North,USB-C Hub,Electronics,5,1573.95,0.15,6689.29,UPI,5.0
+ORD100729,2024-06-25,CUST1104,65.0,Male,South,Power Bank,Electronics,1,1519.05,0.05,1443.1,Debit Card,5.0
+ORD100730,2024-10-08,CUST1098,44.0,Male,West,Power Bank,Electronics,5,1678.95,0.1,7555.28,UPI,3.0
+ORD100731,2024-03-03,CUST1188,39.0,Female,East,Notebook Set,Stationery,1,418.95,0.05,398.0,Cash,4.0
+ORD100732,2024-08-04,CUST1192,54.0,Female,West,Notebook Set,Stationery,2,379.05,0.05,720.2,Cash,3.0
+ORD100733,2025-11-19,CUST1088,44.0,Female,South,Wireless Mouse,Electronics,5,759.05,0.05,3605.49,UPI,4.0
+ORD100734,2025-04-05,CUST1109,46.0,Female,South,USB-C Hub,Electronics,5,1424.05,0.1,6408.22,Debit Card,1.0
+ORD100735,2025-09-01,CUST1163,20.0,Female,North,Bluetooth Speaker,Electronics,4,1999.0,0.15,6796.6,UPI,5.0
+ORD100736,2024-04-14,CUST1070,61.0,Male,North,Office Chair,Furniture,3,7873.95,0.15,20078.57,Credit Card,4.0
+ORD100737,2024-04-08,CUST1158,30.0,Male,South,Office Chair,Furniture,1,7499.0,0.0,7499.0,Debit Card,5.0
+ORD100738,2025-05-25,CUST1199,62.0,Male,West,Laptop Backpack,Accessories,1,1234.05,0.15,1048.94,Debit Card,
+ORD100739,2025-01-19,CUST1074,27.0,Male,West,USB-C Hub,Electronics,4,1573.95,0.1,5666.22,Debit Card,5.0
+ORD100740,2025-02-08,CUST1063,53.0,Female,West,Running Shoes,Sports,4,2999.0,0.0,11996.0,UPI,5.0
+ORD100741,2025-06-01,CUST1156,26.0,Male,North,Office Chair,Furniture,3,7873.95,0.0,23621.85,Credit Card,2.0
+ORD100742,2025-04-20,CUST1060,44.0,Male,West,Travel Mug,Accessories,3,899.0,0.0,2697.0,UPI,4.0
+ORD100743,2025-12-09,CUST1079,51.0,Male,South,Power Bank,Electronics,5,1519.05,0.15,6455.96,Debit Card,3.0
+ORD100744,2025-10-06,CUST1037,18.0,Male,North,Desk Lamp,Furniture,2,1199.0,0.1,2158.2,Credit Card,3.0
+ORD100745,2025-03-12,CUST1022,49.0,Male,West,Laptop Backpack,Accessories,3,1363.95,0.1,3682.67,Debit Card,3.0
+ORD100746,2024-01-23,CUST1196,42.0,Male,East,USB-C Hub,Electronics,4,1573.95,0.0,6295.8,UPI,4.0
+ORD100747,2025-07-18,CUST1148,46.0,Male,North,Running Shoes,,3,3148.95,0.1,8502.16,UPI,4.0
+ORD100748,2025-11-07,CUST1096,24.0,Male,South,Running Shoes,Sports,1,3148.95,0.0,3148.95,UPI,5.0
+ORD100749,2025-12-14,CUST1068,20.0,Male,South,Power Bank,Electronics,2,1519.05,0.05,2886.2,UPI,2.0
+ORD100750,2025-04-02,CUST1192,37.0,Female,East,Travel Mug,Accessories,5,899.0,0.1,4045.5,UPI,5.0
+ORD100751,2024-03-23,CUST1017,37.0,Male,South,Denim Jeans,Clothing,1,1709.05,0.0,1709.05,Cash,3.0
+ORD100752,2024-05-24,CUST1012,47.0,Male,West,Mechanical Keyboard,Electronics,1,2374.05,0.15,2017.94,Cash,5.0
+ORD100753,2024-03-25,CUST1150,52.0,Female,North,Wireless Mouse,Electronics,2,759.05,0.0,1518.1,Credit Card,4.0
+ORD100754,2024-03-18,CUST1145,52.0,Male,South,Bluetooth Speaker,Electronics,5,2098.95,0.1,9445.28,Credit Card,3.0
+ORD100755,2025-04-01,CUST1138,56.0,Female,South,Cotton T-Shirt,Clothing,4,733.95,0.05,2789.01,UPI,5.0
+ORD100756,2024-01-01,CUST1118,44.0,Female,South,Power Bank,Electronics,5,1678.95,0.1,7555.28,Cash,4.0
+ORD100757,2024-02-20,CUST1193,43.0,Male,South,Office Chair,Furniture,3,7499.0,0.0,22497.0,UPI,5.0
+ORD100758,2025-11-15,CUST1022,31.0,Female,East,Water Bottle,Sports,1,628.95,0.0,628.95,Net Banking,4.0
+ORD100759,2025-12-17,CUST1120,34.0,Male,West,USB-C Hub,Electronics,3,1499.0,0.15,3822.45,Credit Card,4.0
+ORD100760,2025-03-21,CUST1050,35.0,Female,West,USB-C Hub,Electronics,4,1573.95,0.0,6295.8,UPI,4.0
+ORD100761,2025-03-24,CUST1014,62.0,Male,West,Laptop Backpack,Accessories,3,1363.95,0.15,3478.07,Net Banking,5.0
+ORD100762,2025-05-02,CUST1192,46.0,Female,West,Laptop Backpack,Accessories,5,1234.05,0.2,4936.2,UPI,2.0
+ORD100763,2024-02-03,CUST1175,37.0,Male,East,Notebook Set,Stationery,3,379.05,0.0,1137.15,Credit Card,5.0
+ORD100764,2024-12-13,CUST1029,44.0,Female,West,Water Bottle,Sports,4,569.05,0.0,2276.2,Credit Card,5.0
+ORD100765,2024-04-04,CUST1164,35.0,Female,South,USB-C Hub,Electronics,4,1499.0,0.1,5396.4,UPI,2.0
+ORD100766,2024-03-12,CUST1180,21.0,Male,South,Smart Watch,Electronics,4,3999.0,0.2,12796.8,Credit Card,3.0
+ORD100767,2025-07-04,CUST1125,18.0,Male,South,Bluetooth Speaker,Electronics,5,2098.95,0.15,8920.54,Debit Card,5.0
+ORD100768,2024-06-02,CUST1007,18.0,Female,South,Notebook Set,Stationery,4,399.0,0.05,1516.2,Debit Card,4.0
+ORD100769,2024-09-06,CUST1029,,Female,South,Notebook Set,Stationery,1,418.95,0.1,377.06,UPI,4.0
+ORD100770,2025-11-04,CUST1139,62.0,Male,West,Power Bank,Electronics,4,1599.0,0.0,6396.0,Net Banking,3.0
+ORD100771,2025-03-13,CUST1033,37.0,Female,South,USB-C Hub,Electronics,3,1499.0,0.2,3597.6,UPI,4.0
+ORD100772,,CUST1134,40.0,Female,North,Office Chair,Furniture,3,7499.0,0.2,17997.6,UPI,2.0
+ORD100773,2024-11-01,CUST1111,27.0,Female,South,Mechanical Keyboard,Electronics,3,2374.05,0.0,7122.15,UPI,4.0
+ORD100774,2024-09-24,CUST1079,28.0,Male,North,Water Bottle,Sports,5,599.0,0.0,2995.0,UPI,5.0
+ORD100775,2024-02-23,CUST1160,58.0,Female,North,Notebook Set,Stationery,3,379.05,0.0,1137.15,UPI,3.0
+ORD100776,2024-08-23,CUST1179,58.0,Male,North,Office Chair,Furniture,5,7124.05,0.0,35620.25,Net Banking,4.0
+ORD100777,2025-01-23,CUST1058,22.0,Other,South,Smart Watch,Electronics,5,3999.0,0.15,16995.75,UPI,5.0
+ORD100778,2025-02-04,CUST1026,18.0,Male,South,Bluetooth Speaker,Electronics,4,2098.95,0.05,7976.01,UPI,5.0
+ORD100779,2025-09-15,CUST1174,34.0,Male,West,USB-C Hub,Electronics,1,1573.95,0.0,1573.95,UPI,5.0
+ORD100780,2024-10-29,CUST1029,39.0,Female,East,Cotton T-Shirt,Clothing,4,733.95,0.05,2789.01,Debit Card,4.0
+ORD100781,2024-07-25,CUST1004,51.0,Male,South,Denim Jeans,Clothing,4,1799.0,0.2,5756.8,Cash,5.0
+ORD100782,2024-08-16,CUST1099,62.0,Other,South,Office Chair,Furniture,5,7873.95,0.1,35432.78,UPI,1.0
+ORD100783,2025-07-31,CUST1141,58.0,Other,South,Travel Mug,Accessories,5,854.05,0.05,4056.74,UPI,2.0
+ORD100784,2024-03-15,CUST1039,46.0,Female,West,Mechanical Keyboard,Electronics,3,2623.95,0.0,7871.85,UPI,3.0
+ORD100785,2025-03-10,CUST1015,21.0,Male,North,Cotton T-Shirt,Clothing,3,699.0,0.2,1677.6,,4.0
+ORD100786,2024-04-12,CUST1119,22.0,Female,North,Desk Lamp,Furniture,4,1258.95,0.15,4280.43,UPI,5.0
+ORD100787,2025-02-25,CUST1029,28.0,Male,West,Laptop Backpack,Accessories,2,1234.05,0.0,2468.1,Credit Card,4.0
+ORD100788,2025-12-04,CUST1157,38.0,Male,South,Power Bank,Electronics,2,1599.0,0.0,3198.0,UPI,5.0
+ORD100789,2024-11-01,CUST1075,52.0,Female,North,Office Chair,Furniture,3,7873.95,0.0,23621.85,Credit Card,5.0
+ORD100790,2024-04-07,CUST1116,29.0,Male,North,Laptop Backpack,,2,1299.0,0.0,2598.0,UPI,4.0
+ORD100791,2024-11-30,CUST1032,43.0,Male,West,USB-C Hub,Electronics,3,1499.0,0.1,4047.3,Net Banking,4.0
+ORD100792,2025-03-10,CUST1130,36.0,,West,Laptop Backpack,Accessories,5,1299.0,0.15,5520.75,Net Banking,4.0
+ORD100793,2025-03-22,CUST1175,62.0,Male,East,Desk Lamp,Furniture,4,1258.95,0.05,4784.01,Credit Card,4.0
+ORD100794,2024-11-03,CUST1084,24.0,Male,South,Mechanical Keyboard,Electronics,1,2499.0,0.15,2124.15,Credit Card,2.0
+ORD100795,2024-09-05,CUST1022,64.0,Female,South,Bluetooth Speaker,Electronics,4,2098.95,0.05,7976.01,Credit Card,5.0
+ORD100796,2024-06-14,CUST1027,24.0,Male,West,Running Shoes,Sports,3,2849.05,0.1,7692.44,Credit Card,2.0
+ORD100797,2025-04-25,CUST1195,43.0,Female,West,Wireless Mouse,Electronics,3,838.95,0.1,2265.17,Debit Card,2.0
+ORD100798,2024-11-30,CUST1081,57.0,Other,North,Water Bottle,Sports,4,569.05,0.0,2276.2,Credit Card,5.0
+ORD100799,2025-06-25,CUST1126,22.0,Female,West,Bluetooth Speaker,Electronics,3,2098.95,0.05,5982.01,Cash,4.0
+ORD100800,2024-04-15,CUST1184,38.0,Female,North,Running Shoes,Sports,2,2999.0,0.1,5398.2,Net Banking,5.0
+ORD100801,2025-07-16,CUST1092,31.0,Male,North,Smart Watch,Electronics,2,4198.95,0.0,8397.9,UPI,4.0
+ORD100802,2024-03-21,CUST1021,21.0,Male,East,Travel Mug,Accessories,3,899.0,0.05,2562.15,Credit Card,4.0
+ORD100803,2024-05-12,CUST1047,40.0,Female,South,Office Chair,Furniture,3,7124.05,0.05,20303.54,UPI,3.0
+ORD100804,2024-05-17,CUST1101,59.0,Female,West,Office Chair,Furniture,2,7873.95,0.2,12598.32,UPI,4.0
+ORD100805,2024-07-02,CUST1187,37.0,Female,North,Notebook Set,Stationery,3,399.0,0.05,1137.15,Credit Card,4.0
+ORD100806,2025-02-04,CUST1084,32.0,Male,South,Mechanical Keyboard,Electronics,3,2374.05,0.15,6053.83,UPI,5.0
+ORD100807,2024-11-25,CUST1006,62.0,Male,West,Office Chair,Furniture,4,7124.05,0.05,27071.39,Cash,4.0
+ORD100808,2025-05-22,CUST1147,46.0,Male,West,Cotton T-Shirt,Clothing,1,733.95,0.1,660.56,UPI,5.0
+ORD100809,2024-03-09,CUST1185,25.0,Female,North,Running Shoes,Sports,2,2849.05,0.1,5128.29,Credit Card,1.0
+ORD100810,2025-06-29,CUST1197,58.0,Male,South,Mechanical Keyboard,Electronics,4,2499.0,0.15,8496.6,Debit Card,4.0
+ORD100811,2024-02-22,CUST1131,65.0,Female,East,Denim Jeans,Clothing,1,1709.05,0.05,1623.6,Debit Card,4.0
+ORD100812,2025-03-25,CUST1001,36.0,Female,North,Cotton T-Shirt,Clothing,3,664.05,0.1,1792.94,Credit Card,5.0
+ORD100813,2024-07-23,CUST1058,65.0,Male,West,Office Chair,Furniture,3,7499.0,0.1,20247.3,Cash,1.0
+ORD100814,2024-05-05,CUST1124,56.0,Female,West,Laptop Backpack,Accessories,4,1234.05,0.05,4689.39,Credit Card,4.0
+ORD100815,2024-02-12,CUST1166,63.0,Male,,Desk Lamp,Furniture,3,1139.05,0.0,3417.15,Credit Card,5.0
+ORD100816,2024-04-20,CUST1015,45.0,Female,North,Laptop Backpack,Accessories,5,1234.05,0.0,6170.25,UPI,3.0
+ORD100817,2025-10-24,CUST1162,63.0,Female,North,Cotton T-Shirt,Clothing,4,664.05,0.0,2656.2,Credit Card,5.0
+ORD100818,2024-07-01,CUST1189,44.0,Female,West,Smart Watch,Electronics,1,3999.0,0.15,3399.15,Cash,1.0
+ORD100819,2024-04-04,CUST1163,21.0,Female,North,Office Chair,Furniture,4,7124.05,0.0,28496.2,Debit Card,5.0
+ORD100820,2025-01-08,CUST1064,32.0,Male,South,Power Bank,Electronics,2,1599.0,0.0,3198.0,Cash,5.0
+ORD100821,2025-06-03,CUST1025,52.0,Male,South,Smart Watch,Electronics,4,3799.05,0.1,13676.58,Credit Card,5.0
+ORD100822,2024-12-25,CUST1024,54.0,Female,East,Smart Watch,Electronics,3,3799.05,0.05,10827.29,UPI,4.0
+ORD100823,2025-11-26,CUST1012,18.0,Male,North,Running Shoes,Sports,3,2849.05,0.05,8119.79,UPI,1.0
+ORD100824,2024-10-07,CUST1018,20.0,Male,North,Water Bottle,Sports,5,569.05,0.0,2845.25,UPI,5.0
+ORD100825,2024-07-13,CUST1015,64.0,Male,West,Running Shoes,Sports,5,2999.0,0.2,11996.0,Debit Card,4.0
+ORD100826,2024-07-13,CUST1027,41.0,Female,West,USB-C Hub,Electronics,5,1499.0,0.15,6370.75,Debit Card,1.0
+ORD100827,2025-10-28,CUST1072,44.0,Male,West,Wireless Mouse,Electronics,1,799.0,0.15,679.15,UPI,5.0
+ORD100828,2024-04-02,CUST1060,57.0,Female,North,Cotton T-Shirt,Clothing,5,733.95,0.05,3486.26,Credit Card,4.0
+ORD100829,2025-11-02,CUST1174,53.0,Other,South,Bluetooth Speaker,Electronics,1,1899.05,0.1,1709.14,Credit Card,2.0
+ORD100830,2024-03-01,CUST1145,51.0,Male,East,Wireless Mouse,Electronics,5,759.05,0.0,3795.25,Credit Card,3.0
+ORD100831,2025-09-25,CUST1093,46.0,Male,South,Power Bank,Electronics,1,1599.0,0.0,1599.0,UPI,2.0
+ORD100832,2024-02-20,CUST1053,41.0,Male,West,Denim Jeans,Clothing,4,1888.95,0.0,7555.8,UPI,4.0
+ORD100833,2025-02-06,CUST1008,41.0,Female,East,Desk Lamp,Furniture,4,1139.05,0.1,4100.58,UPI,4.0
+ORD100834,2024-01-05,CUST1079,59.0,Male,North,Running Shoes,Sports,3,2999.0,0.05,8547.15,UPI,4.0
+ORD100835,2025-04-10,CUST1027,21.0,Male,West,Running Shoes,Sports,1,2849.05,0.05,2706.6,UPI,5.0
+ORD100836,2025-08-26,CUST1174,20.0,Male,West,Mechanical Keyboard,Electronics,2,2374.05,0.0,4748.1,UPI,5.0
+ORD100837,2025-11-12,CUST1050,51.0,Female,North,Power Bank,Electronics,3,1599.0,0.05,4557.15,Debit Card,4.0
+ORD100838,2025-06-17,CUST1199,40.0,Male,South,Wireless Mouse,Electronics,4,799.0,0.1,2876.4,UPI,1.0
+ORD100839,2025-02-08,CUST1131,40.0,Female,South,Notebook Set,Stationery,1,379.05,0.05,360.1,Net Banking,5.0
+ORD100840,2025-05-27,CUST1093,62.0,Female,South,Travel Mug,Accessories,5,854.05,0.1,3843.22,UPI,4.0
+ORD100841,2025-10-06,CUST1192,22.0,Male,North,Travel Mug,Accessories,2,899.0,0.0,1798.0,UPI,4.0
+ORD100842,2024-08-20,CUST1172,48.0,Female,East,Mechanical Keyboard,Electronics,4,2374.05,0.15,8071.77,Credit Card,4.0
+ORD100843,2025-06-07,CUST1181,,Male,West,Bluetooth Speaker,Electronics,3,1899.05,0.1,5127.43,UPI,4.0
+ORD100844,2024-12-11,CUST1024,23.0,Female,South,Mechanical Keyboard,Electronics,1,2499.0,0.0,2499.0,Cash,5.0
+ORD100845,2024-02-15,CUST1060,54.0,Female,North,Wireless Mouse,Electronics,2,759.05,0.0,1518.1,UPI,3.0
+ORD100846,2025-06-29,CUST1122,27.0,Female,East,Cotton T-Shirt,Clothing,1,664.05,0.1,597.64,Net Banking,5.0
+ORD100847,2024-03-18,CUST1131,57.0,Male,South,Office Chair,Furniture,5,7873.95,0.15,33464.29,Cash,
+ORD100848,2025-12-30,CUST1148,24.0,Male,West,Office Chair,Furniture,3,7499.0,0.05,21372.15,Credit Card,5.0
+ORD100849,2024-03-13,CUST1046,56.0,Male,South,Power Bank,Electronics,1,1678.95,0.0,1678.95,Credit Card,2.0
+ORD100850,2024-09-05,CUST1015,55.0,Male,North,Desk Lamp,Furniture,4,1258.95,0.15,4280.43,Debit Card,2.0
+ORD100851,2024-02-16,CUST1153,38.0,Male,North,Denim Jeans,Clothing,3,1888.95,0.1,5100.17,Credit Card,4.0
+ORD100852,2024-04-30,CUST1199,37.0,Male,West,Running Shoes,Sports,4,2849.05,0.05,10826.39,Debit Card,4.0
+ORD100853,2024-08-01,CUST1017,20.0,Male,South,Bluetooth Speaker,Electronics,1,1899.05,0.05,1804.1,UPI,3.0
+ORD100854,2024-08-26,CUST1126,39.0,Male,West,Travel Mug,Accessories,3,943.95,0.0,2831.85,UPI,4.0
+ORD100855,2024-02-25,CUST1084,64.0,Female,North,Running Shoes,Sports,4,3148.95,0.1,11336.22,Credit Card,4.0
+ORD100856,2024-12-15,CUST1009,21.0,Male,South,USB-C Hub,Electronics,5,1573.95,0.05,7476.26,Credit Card,1.0
+ORD100857,2024-04-16,CUST1166,45.0,Male,South,Desk Lamp,Furniture,5,1139.05,0.2,4556.2,Cash,4.0
+ORD100858,,CUST1176,29.0,Male,West,Denim Jeans,Clothing,1,1888.95,0.05,1794.5,UPI,5.0
+ORD100859,2025-07-26,CUST1188,55.0,Male,West,Water Bottle,Sports,3,628.95,0.05,1792.51,Cash,5.0
+ORD100860,2024-12-02,CUST1063,53.0,Female,North,Travel Mug,Accessories,2,899.0,0.1,1618.2,UPI,5.0
+ORD100861,2024-01-26,CUST1117,64.0,Male,South,Notebook Set,,3,399.0,0.15,1017.45,Credit Card,5.0
+ORD100862,2024-09-13,CUST1130,58.0,Female,North,Notebook Set,Stationery,5,379.05,0.15,1610.96,UPI,4.0
+ORD100863,2024-01-08,CUST1088,22.0,Other,South,Mechanical Keyboard,Electronics,4,2499.0,0.05,9496.2,Credit Card,2.0
+ORD100864,2025-09-16,CUST1072,30.0,Female,South,Laptop Backpack,Accessories,2,1299.0,0.1,2338.2,UPI,3.0
+ORD100865,2024-09-09,CUST1139,40.0,Female,West,Wireless Mouse,Electronics,1,799.0,0.1,719.1,Credit Card,5.0
+ORD100866,2025-11-22,CUST1064,47.0,Female,West,Running Shoes,Sports,2,2849.05,0.05,5413.2,Cash,5.0
+ORD100867,2025-12-19,CUST1072,54.0,Other,South,Mechanical Keyboard,Electronics,1,2499.0,0.0,2499.0,Credit Card,4.0
+ORD100868,2024-10-29,CUST1021,42.0,Female,South,Bluetooth Speaker,Electronics,2,1899.05,0.05,3608.2,Credit Card,1.0
+ORD100869,2025-09-30,CUST1018,65.0,Female,West,Running Shoes,Sports,1,3148.95,0.0,3148.95,Cash,3.0
+ORD100870,2024-02-25,CUST1064,44.0,Female,West,Water Bottle,Sports,1,599.0,0.15,509.15,Debit Card,4.0
+ORD100871,2025-12-26,CUST1082,31.0,,North,Office Chair,Furniture,2,7124.05,0.05,13535.7,Credit Card,4.0
+ORD100872,2025-06-09,CUST1110,65.0,Female,South,Denim Jeans,Clothing,2,1799.0,0.2,2878.4,UPI,2.0
+ORD100873,2025-04-18,CUST1095,64.0,Male,South,Desk Lamp,Furniture,1,1258.95,0.05,1196.0,Cash,5.0
+ORD100874,2024-01-28,CUST1166,53.0,Male,North,Denim Jeans,Clothing,5,1709.05,0.1,7690.72,Credit Card,4.0
+ORD100875,2024-03-18,CUST1032,56.0,Male,North,Office Chair,Furniture,2,7124.05,,13535.7,UPI,5.0
+ORD100876,2024-08-03,CUST1011,33.0,Male,North,Running Shoes,Sports,3,2849.05,0.0,8547.15,UPI,5.0
+ORD100877,2025-01-20,CUST1045,39.0,Male,East,Bluetooth Speaker,Electronics,4,2098.95,0.05,7976.01,Cash,5.0
+ORD100878,2024-12-30,CUST1033,38.0,Male,South,Denim Jeans,Clothing,1,1888.95,0.0,1888.95,UPI,4.0
+ORD100879,2025-10-27,CUST1102,38.0,Female,North,Notebook Set,Stationery,1,418.95,0.1,377.06,Net Banking,4.0
+ORD100880,2025-06-09,CUST1169,25.0,Male,North,Denim Jeans,Clothing,4,1709.05,0.05,6494.39,UPI,4.0
+ORD100881,2025-11-29,CUST1136,33.0,Female,West,Water Bottle,Sports,5,628.95,0.1,2830.28,Debit Card,4.0
+ORD100882,2024-11-07,CUST1011,48.0,Male,West,Travel Mug,Accessories,4,899.0,0.0,3596.0,Credit Card,4.0
+ORD100883,2024-01-07,CUST1179,59.0,Male,South,Wireless Mouse,Electronics,2,838.95,0.0,1677.9,Credit Card,5.0
+ORD100884,2024-01-03,CUST1088,27.0,Female,South,Bluetooth Speaker,Electronics,4,1899.05,0.05,7216.39,Cash,5.0
+ORD100885,2025-09-14,CUST1041,49.0,Female,West,Bluetooth Speaker,Electronics,1,1999.0,0.15,1699.15,Credit Card,5.0
+ORD100886,2024-12-28,CUST1145,51.0,Male,North,Cotton T-Shirt,Clothing,4,733.95,0.1,2642.22,Credit Card,5.0
+ORD100887,2025-05-22,CUST1076,26.0,Female,North,Travel Mug,Accessories,3,899.0,0.05,2562.15,UPI,3.0
+ORD100888,2024-09-30,CUST1121,34.0,Female,South,Travel Mug,Accessories,2,899.0,0.05,1708.1,UPI,2.0
+ORD100889,2025-05-20,CUST1046,28.0,Male,North,Office Chair,Furniture,4,7124.05,0.0,28496.2,UPI,4.0
+ORD100890,2024-01-15,CUST1160,49.0,Male,South,Cotton T-Shirt,Clothing,1,699.0,0.2,559.2,Debit Card,4.0
+ORD100891,2024-07-10,CUST1080,27.0,Other,West,Notebook Set,Stationery,2,399.0,0.1,718.2,UPI,5.0
+ORD100892,2025-09-22,CUST1054,39.0,Female,East,Office Chair,Furniture,1,7124.05,0.0,7124.05,UPI,4.0
+ORD100893,2025-04-29,CUST1086,34.0,Female,South,Power Bank,Electronics,5,1519.05,0.1,6835.72,Credit Card,4.0
+ORD100894,2024-01-28,CUST1092,21.0,Female,West,Denim Jeans,Clothing,3,1709.05,0.0,5127.15,Debit Card,4.0
+ORD100895,2025-12-14,CUST1148,65.0,Male,North,Office Chair,Furniture,5,7499.0,0.2,29996.0,Debit Card,1.0
+ORD100896,2024-02-08,CUST1161,64.0,Male,North,Laptop Backpack,Accessories,3,1299.0,0.0,3897.0,UPI,4.0
+ORD100897,2024-09-29,CUST1168,42.0,Male,East,Cotton T-Shirt,Clothing,4,699.0,0.1,2516.4,UPI,5.0
+ORD100898,2024-08-18,CUST1160,38.0,Female,East,Denim Jeans,Clothing,2,1709.05,0.0,3418.1,Net Banking,3.0
+ORD100899,2024-03-26,CUST1097,54.0,Female,North,Power Bank,Electronics,4,1678.95,0.1,6044.22,UPI,4.0
+ORD100900,2025-04-18,CUST1002,55.0,Female,South,Smart Watch,Electronics,3,3999.0,0.1,10797.3,Cash,4.0
+ORD100901,2024-05-05,CUST1033,18.0,Male,East,USB-C Hub,Electronics,3,1573.95,0.1,4249.67,Cash,3.0
+ORD100902,2025-06-20,CUST1158,42.0,Male,East,USB-C Hub,Electronics,3,1424.05,0.1,3844.94,Debit Card,2.0
+ORD100903,2024-05-24,CUST1161,53.0,Male,East,Bluetooth Speaker,Electronics,1,1999.0,0.15,1699.15,UPI,5.0
+ORD100904,2025-06-08,CUST1077,34.0,Female,South,Laptop Backpack,Accessories,2,1363.95,0.0,2727.9,Cash,4.0
+ORD100905,2024-07-30,CUST1116,58.0,Female,North,Water Bottle,Sports,4,599.0,0.05,2276.2,Debit Card,3.0
+ORD100906,2024-01-25,CUST1154,41.0,Male,South,Wireless Mouse,Electronics,4,799.0,0.0,3196.0,Credit Card,3.0
+ORD100907,2025-08-02,CUST1150,19.0,Female,North,Power Bank,Electronics,5,1599.0,0.2,6396.0,UPI,5.0
+ORD100908,2025-01-28,CUST1103,57.0,Male,West,Power Bank,Electronics,3,1678.95,0.05,4785.01,UPI,4.0
+ORD100909,2024-03-07,CUST1194,32.0,Female,South,Cotton T-Shirt,Clothing,3,664.05,0.1,1792.94,UPI,4.0
+ORD100910,2024-08-20,CUST1166,49.0,Male,South,Smart Watch,Electronics,3,3999.0,0.1,10797.3,Credit Card,2.0
+ORD100911,2024-04-18,CUST1103,56.0,Female,West,Denim Jeans,Clothing,4,1709.05,0.0,6836.2,Credit Card,5.0
+ORD100912,2024-05-25,CUST1090,23.0,Male,South,Power Bank,Electronics,5,1519.05,0.0,7595.25,Credit Card,4.0
+ORD100913,2024-04-20,CUST1174,18.0,Female,South,Power Bank,Electronics,1,1678.95,0.0,1678.95,Credit Card,4.0
+ORD100914,2024-08-15,CUST1122,64.0,Male,West,Laptop Backpack,Accessories,2,1363.95,0.05,2591.5,Credit Card,4.0
+ORD100915,2024-04-20,CUST1143,40.0,Male,West,Travel Mug,Accessories,1,854.05,0.0,854.05,Debit Card,4.0
+ORD100916,2025-04-14,CUST1106,56.0,Male,East,Travel Mug,Accessories,4,899.0,0.0,3596.0,Net Banking,5.0
+ORD100917,2024-02-03,CUST1119,34.0,Male,North,Bluetooth Speaker,Electronics,3,2098.95,0.15,5352.32,UPI,5.0
+ORD100918,2025-09-14,CUST1172,51.0,Male,East,Desk Lamp,Furniture,2,1199.0,0.2,1918.4,Credit Card,4.0
+ORD100919,2025-01-03,CUST1049,58.0,Female,West,Cotton T-Shirt,Clothing,4,699.0,0.05,2656.2,UPI,5.0
+ORD100920,2025-08-17,CUST1104,46.0,Male,North,Laptop Backpack,Accessories,4,1299.0,0.05,4936.2,Debit Card,5.0
+ORD100921,2025-07-07,CUST1061,26.0,Female,North,Cotton T-Shirt,Clothing,4,664.05,0.0,2656.2,Debit Card,5.0
+ORD100922,2025-02-28,CUST1195,30.0,Female,West,Desk Lamp,Furniture,2,1199.0,0.1,2158.2,Net Banking,3.0
+ORD100923,2025-09-04,CUST1123,23.0,Female,North,Wireless Mouse,Electronics,2,759.05,0.15,1290.38,UPI,4.0
+ORD100924,2025-06-01,CUST1134,23.0,Male,West,Wireless Mouse,Electronics,5,759.05,0.0,3795.25,Net Banking,3.0
+ORD100925,2025-11-22,CUST1009,37.0,Male,South,Water Bottle,Sports,5,599.0,0.0,2995.0,UPI,5.0
+ORD100926,2024-10-08,CUST1006,20.0,Female,South,Travel Mug,Accessories,1,899.0,0.1,809.1,Debit Card,1.0
+ORD100927,2024-11-15,CUST1073,34.0,Other,North,Notebook Set,Stationery,2,399.0,0.1,718.2,UPI,4.0
+ORD100928,2025-03-18,CUST1103,29.0,Male,West,USB-C Hub,Electronics,2,1499.0,0.0,2998.0,Cash,4.0
+ORD100929,2024-11-10,CUST1160,65.0,Male,,Travel Mug,Accessories,2,854.05,0.1,1537.29,Credit Card,4.0
+ORD100930,2025-01-11,CUST1041,64.0,Male,East,Office Chair,Furniture,5,7499.0,0.05,35620.25,Debit Card,4.0
+ORD100931,2024-10-15,CUST1114,62.0,Other,East,Mechanical Keyboard,Electronics,4,2499.0,0.05,9496.2,Cash,5.0
+ORD100932,2025-03-12,CUST1008,18.0,Male,East,Mechanical Keyboard,Electronics,3,2374.05,0.1,6409.94,UPI,4.0
+ORD100933,2025-10-23,CUST1072,34.0,Male,West,Cotton T-Shirt,Clothing,5,733.95,0.15,3119.29,UPI,5.0
+ORD100934,2024-10-03,CUST1178,20.0,Female,South,Desk Lamp,Furniture,2,1258.95,0.05,2392.0,Cash,3.0
+ORD100935,2025-12-10,CUST1092,43.0,Male,South,Water Bottle,Sports,5,569.05,0.15,2418.46,UPI,4.0
+ORD100936,2025-08-04,CUST1062,32.0,Male,West,Mechanical Keyboard,Electronics,1,2623.95,0.05,2492.75,UPI,4.0
+ORD100937,2025-05-17,CUST1084,53.0,Female,East,Office Chair,Furniture,2,7124.05,0.1,12823.29,Credit Card,1.0
+ORD100938,2025-09-15,CUST1062,49.0,Female,South,Bluetooth Speaker,Electronics,1,1999.0,0.05,1899.05,Credit Card,4.0
+ORD100939,2025-05-30,CUST1111,49.0,Male,North,Mechanical Keyboard,Electronics,2,2499.0,0.15,4248.3,UPI,5.0
+ORD100940,2024-12-15,CUST1127,21.0,Male,West,Running Shoes,Sports,5,3148.95,0.15,13383.04,UPI,4.0
+ORD100941,2025-03-21,CUST1007,35.0,Male,South,Denim Jeans,Clothing,4,1799.0,0.0,7196.0,UPI,5.0
+ORD100942,2024-12-15,CUST1084,36.0,Male,East,Water Bottle,Sports,3,628.95,0.15,1603.82,Credit Card,4.0
+ORD100943,2025-08-29,CUST1132,60.0,Female,South,Bluetooth Speaker,Electronics,1,2098.95,0.15,1784.11,Cash,2.0
+ORD100944,2025-10-25,CUST1134,52.0,Male,North,Power Bank,Electronics,5,1599.0,0.1,7195.5,Net Banking,2.0
+ORD100945,2024-05-16,CUST1058,57.0,Male,East,Laptop Backpack,Accessories,4,1299.0,0.0,5196.0,Debit Card,4.0
+ORD100946,2024-08-30,CUST1022,31.0,Male,North,Bluetooth Speaker,Electronics,5,2098.95,0.15,8920.54,UPI,3.0
+ORD100947,2025-06-26,CUST1154,50.0,Female,South,USB-C Hub,Electronics,1,1499.0,0.15,1274.15,Net Banking,2.0
+ORD100948,2024-02-09,CUST1127,31.0,Female,East,Laptop Backpack,Accessories,3,1234.05,0.0,3702.15,Credit Card,4.0
+ORD100949,2024-08-16,CUST1003,51.0,Female,South,Travel Mug,Accessories,5,899.0,0.2,3596.0,UPI,4.0
+ORD100950,2025-07-01,CUST1127,21.0,Male,East,Smart Watch,Electronics,2,3999.0,0.0,7998.0,Net Banking,4.0
+ORD100951,2024-08-10,CUST1041,41.0,Female,West,Denim Jeans,Clothing,4,1709.05,0.0,6836.2,Debit Card,5.0
+ORD100952,2024-01-06,CUST1188,46.0,Female,West,Denim Jeans,Clothing,5,1799.0,0.05,8545.25,Debit Card,4.0
+ORD100953,,CUST1106,36.0,Male,North,Denim Jeans,Clothing,4,1799.0,0.1,6476.4,Debit Card,
+ORD100954,2025-04-12,CUST1014,23.0,Male,North,Desk Lamp,Furniture,2,1258.95,0.1,2266.11,UPI,5.0
+ORD100955,2024-03-15,CUST1012,50.0,Male,South,Denim Jeans,Clothing,3,1799.0,0.0,5397.0,UPI,4.0
+ORD100956,2024-01-04,CUST1087,57.0,Male,West,Cotton T-Shirt,Clothing,3,699.0,0.2,1677.6,Debit Card,4.0
+ORD100957,2025-10-07,CUST1012,36.0,Male,West,Denim Jeans,Clothing,2,1709.05,0.0,3418.1,UPI,4.0
+ORD100958,2024-04-27,CUST1141,18.0,Male,West,Office Chair,Furniture,4,7873.95,,31495.8,Credit Card,1.0
+ORD100959,2025-08-28,CUST1025,22.0,Male,South,Travel Mug,Accessories,5,943.95,0.0,4719.75,Debit Card,5.0
+ORD100960,2025-05-18,CUST1045,44.0,Female,South,Denim Jeans,Clothing,2,1888.95,0.1,3400.11,Debit Card,4.0
+ORD100961,2025-07-27,CUST1122,33.0,Male,South,Notebook Set,Stationery,1,399.0,0.15,339.15,Credit Card,5.0
+ORD100962,2025-03-16,CUST1147,23.0,Female,North,Travel Mug,Accessories,4,943.95,0.1,3398.22,Debit Card,5.0
+ORD100963,2024-07-12,CUST1055,57.0,Female,North,Denim Jeans,Clothing,3,1709.05,0.15,4358.08,Cash,4.0
+ORD100964,2025-12-15,CUST1100,30.0,Female,West,Desk Lamp,Furniture,2,1258.95,0.0,2517.9,Debit Card,3.0
+ORD100965,2025-01-26,CUST1173,65.0,Female,South,Water Bottle,Sports,3,569.05,0.05,1621.79,UPI,3.0
+ORD100966,2024-01-26,CUST1136,52.0,Male,North,Cotton T-Shirt,Clothing,4,733.95,0.05,2789.01,UPI,4.0
+ORD100967,2025-03-10,CUST1119,36.0,Female,North,Desk Lamp,Furniture,3,1258.95,0.05,3588.01,UPI,4.0
+ORD100968,2024-06-21,CUST1053,29.0,Male,West,Wireless Mouse,Electronics,2,759.05,0.0,1518.1,UPI,3.0
+ORD100969,2024-10-26,CUST1183,33.0,Male,East,Bluetooth Speaker,Electronics,4,2098.95,0.1,7556.22,UPI,4.0
+ORD100970,2025-10-06,CUST1032,60.0,Female,East,Notebook Set,Stationery,1,418.95,0.05,398.0,UPI,3.0
+ORD100971,2024-11-21,CUST1051,27.0,Male,West,Notebook Set,Stationery,2,418.95,0.1,754.11,Credit Card,5.0
+ORD100972,2025-02-13,CUST1044,42.0,Male,South,Bluetooth Speaker,Electronics,5,1999.0,0.05,9495.25,Net Banking,2.0
+ORD100973,2024-04-27,CUST1082,37.0,Female,East,Laptop Backpack,Accessories,2,1234.05,0.0,2468.1,UPI,5.0
+ORD100974,2025-12-24,CUST1198,48.0,Female,North,Water Bottle,Sports,4,628.95,0.1,2264.22,Debit Card,5.0
+ORD100975,2024-08-12,CUST1146,21.0,Female,North,Running Shoes,Sports,2,2849.05,0.0,5698.1,Debit Card,4.0
+ORD100976,2025-06-15,CUST1150,61.0,Male,West,Bluetooth Speaker,Electronics,1,1899.05,0.15,1614.19,UPI,5.0
+ORD100977,2024-04-22,CUST1037,40.0,Female,,Power Bank,Electronics,1,1519.05,0.1,1367.14,Net Banking,4.0
+ORD100978,2024-05-19,CUST1096,19.0,Male,South,Mechanical Keyboard,Electronics,5,2623.95,0.0,13119.75,Credit Card,4.0
+ORD100979,2025-07-12,CUST1056,39.0,Female,South,Running Shoes,Sports,3,3148.95,0.2,7557.48,Credit Card,4.0
+ORD100980,2024-01-01,CUST1105,54.0,Female,South,Power Bank,Electronics,4,1519.05,0.05,5772.39,Debit Card,4.0
+ORD100981,2024-03-30,CUST1059,25.0,Female,North,Denim Jeans,Clothing,4,1799.0,0.0,7196.0,UPI,4.0
+ORD100982,2025-10-15,CUST1131,24.0,Female,South,Power Bank,Electronics,3,1519.05,0.1,4101.43,Debit Card,4.0
+ORD100983,2024-11-15,CUST1156,31.0,Male,North,Denim Jeans,Clothing,1,1799.0,0.0,1799.0,UPI,4.0
+ORD100984,2025-07-03,CUST1035,20.0,Female,South,Cotton T-Shirt,Clothing,1,664.05,0.15,564.44,Cash,3.0
+ORD100985,2024-05-18,CUST1189,33.0,Female,West,Running Shoes,Sports,2,2849.05,0.15,4843.38,Credit Card,4.0
+ORD100986,2025-05-25,CUST1093,36.0,Male,South,Mechanical Keyboard,Electronics,5,2374.05,0.2,9496.2,Debit Card,2.0
+ORD100987,2024-09-15,CUST1182,,Female,North,Power Bank,Electronics,5,1678.95,0.05,7975.01,UPI,2.0
+ORD100988,2025-11-03,CUST1191,33.0,Male,South,Cotton T-Shirt,Clothing,5,699.0,0.05,3320.25,Debit Card,3.0
+ORD100989,2025-11-20,CUST1097,25.0,Female,West,Office Chair,Furniture,2,7499.0,0.1,13498.2,Debit Card,2.0
+ORD100990,2024-01-10,CUST1135,50.0,Female,South,Desk Lamp,Furniture,5,1139.05,0.0,5695.25,Credit Card,2.0
+ORD100991,2024-09-17,CUST1076,29.0,Female,North,Travel Mug,Accessories,3,943.95,0.05,2690.26,Debit Card,5.0
+ORD100992,2025-10-11,CUST1049,28.0,Male,South,Travel Mug,Accessories,2,943.95,0.05,1793.5,Credit Card,1.0
+ORD100993,2024-06-20,CUST1094,22.0,Female,East,Laptop Backpack,Accessories,3,1299.0,0.0,3897.0,Cash,5.0
+ORD100994,2024-01-13,CUST1159,44.0,Female,East,Running Shoes,Sports,2,3148.95,0.05,5983.0,Credit Card,3.0
+ORD100995,2024-06-16,CUST1186,29.0,Female,West,Water Bottle,Sports,5,599.0,0.15,2545.75,Cash,5.0
+ORD100996,2025-10-03,CUST1189,34.0,Male,West,Denim Jeans,Clothing,3,1799.0,0.15,4587.45,Cash,4.0
+ORD100997,2025-08-18,CUST1024,23.0,Male,West,Travel Mug,Accessories,3,899.0,0.0,2697.0,Credit Card,4.0
+ORD100998,2024-11-16,CUST1148,50.0,Female,East,Denim Jeans,Clothing,3,1888.95,0.0,5666.85,UPI,4.0
+ORD100999,2024-11-14,CUST1037,22.0,Male,South,USB-C Hub,Electronics,2,1499.0,0.0,2998.0,Credit Card,4.0
+ORD101000,2025-09-04,CUST1004,45.0,Female,North,Desk Lamp,Furniture,4,1199.0,0.15,4076.6,Cash,4.0
+ORD100522,2025-08-24,CUST1153,46.0,Male,North,Power Bank,Electronics,5,1599.0,0.0,7995.0,Cash,4.0
+ORD100738,2025-05-25,CUST1199,62.0,Male,West,Laptop Backpack,Accessories,1,1234.05,0.15,1048.94,Debit Card,
+ORD100741,2025-06-01,CUST1156,26.0,Male,North,Office Chair,Furniture,3,7873.95,0.0,23621.85,Credit Card,2.0
+ORD100661,2025-07-09,CUST1198,28.0,Female,South,Cotton T-Shirt,Clothing,4,664.05,0.15,2257.77,UPI,2.0
+ORD100412,2025-11-22,CUST1113,40.0,Male,North,Power Bank,Electronics,2,1678.95,0.0,3357.9,UPI,4.0
+ORD100679,2025-06-09,CUST1040,36.0,Female,West,Desk Lamp,Furniture,5,1199.0,0.0,5995.0,UPI,4.0
+ORD100627,2024-05-11,CUST1160,37.0,Female,North,Water Bottle,Sports,2,628.95,0.05,1195.01,Cash,4.0
+ORD100514,2025-08-29,CUST1168,52.0,Female,North,Denim Jeans,Clothing,4,1709.05,0.0,6836.2,UPI,4.0
